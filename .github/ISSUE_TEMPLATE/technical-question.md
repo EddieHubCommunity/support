@@ -1,6 +1,6 @@
 ---
 name: Technical question
-about: I need help, this is my question
+about: I am stuck please can someone help
 title: ''
 labels: question
 assignees: ''
