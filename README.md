@@ -1,4 +1,7 @@
 # Community Support
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an issue to join the EddieJaoudeCommunity GitHub community.
 
 ### Some vague idea of how we could turn this into a support channel.
@@ -26,3 +29,22 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 ## Socials
 
 Join our discord community [here](https://discord.gg/jZQs6Wu)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://cakebaby.dev"><img src="https://avatars1.githubusercontent.com/u/62059002?v=4" width="100px;" alt=""/><br /><sub><b>Ruth Ikegah</b></sub></a><br /><a href="https://github.com/EddieJaoudeCommunity/support/commits?author=Ruth-ikegah" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
