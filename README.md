@@ -20,3 +20,9 @@ If we could find a really good name for this, we could have a `"support"` repo i
 We could then have folks to have their own "support" repository and be able to PR in their contributions!
 
 Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/support/issues) for sticking issues with this and we can all pair on this.
+
+---
+
+## Socials
+
+Join our discord community [here](https://discord.gg/jZQs6Wu)
