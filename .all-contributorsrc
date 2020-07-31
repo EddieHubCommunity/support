@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "stemount",
+      "name": "Stephen Mount",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/150512?v=4",
+      "profile": "https://ste.london",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
