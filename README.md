@@ -12,7 +12,7 @@ You volunteer to help that person, you pair on it, it's fixed and they're super 
 
 The unfortunate thing about this is it then lacks a write up on what was used, what articles were used etc (which would be reference articles) - we could simply use a GitHub issue queue for this - so folks could Google for somebody with the same problem!
 
-Unfortunately, StackOverflow have a bit of a broken reputation system where folks with the "worst accepted answer" can actually start to get privileges to do more things.
+Unfortunately, StackOverflow has a bit of a broken reputation system where folks with the "worst accepted answer" can actually start to get privileges to do more things.
 
 ### Ideas
 
