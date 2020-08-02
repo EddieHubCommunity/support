@@ -11,22 +11,6 @@ assignees: ''
 
 A brief description of the question or issue:
 
-**Stack**
+You can also join the discord community [here](https://discord.com/invite/jZQs6Wu)
 
-Project stack or language (eg. Frontend):
-
-**Working Environment**
-
-Operating System (eg Linux):
-
-Browser (eg. Chrome):
-
-Device (eg. Laptop or Phone):
-
-**Screenshots**
-
-Please add a screenshot if applicable
-
-[Optional] **Additional Context**
-
-Add any other context about the problem here.
+Feel free to check out other cool repositories of EddieJoaude Comminity [here](https://github.com/EddieJaoudeCommunity)
