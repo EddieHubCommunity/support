@@ -9,7 +9,7 @@ assignees: ''
 
 **Description**
 
-A brief description of the question or issue:
+A brief description of the question or issue, also include what you tried and what didnt work:
 
 **Stack**
 
