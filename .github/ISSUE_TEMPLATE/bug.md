@@ -1,6 +1,15 @@
+---
+name: Bug
+about: Describe this issue template's purpose here.
+title: ''
+labels: bug
+assignees: ''
+
+---
+
 **Description**
 
-A brief description of the question or issue:
+A brief description of the question or issue, also include what you tried and what didnt work:
 
 **Stack**
 

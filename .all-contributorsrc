@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Ruth-ikegah",
+      "name": "Ruth Ikegah",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/62059002?v=4",
+      "profile": "http://cakebaby.dev",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "stemount",
+      "name": "Stephen Mount",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/150512?v=4",
+      "profile": "https://ste.london",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "support",
+  "projectOwner": "EddieJaoudeCommunity",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
