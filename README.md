@@ -28,7 +28,8 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 
 ## Socials
 
-Join our discord community [here](https://discord.gg/jZQs6Wu)
+Join our discord community [here](https://discord.gg/jZQs6Wu)   
+Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
 
 ## Contributors ✨
 
