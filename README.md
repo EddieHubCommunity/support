@@ -1,7 +1,7 @@
 # Community Support
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-[![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](https://discord.gg/jZQs6Wu)]
+[![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](https://discord.gg/jZQs6Wu)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an issue to join the EddieJaoudeCommunity GitHub community.
 
