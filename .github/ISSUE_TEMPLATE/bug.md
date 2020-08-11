@@ -30,3 +30,7 @@ Please add a screenshot if applicable
 [Optional] **Additional Context**
 
 Add any other context about the problem here.
+
+You can also join the discord community [here](https://discord.com/invite/jZQs6Wu)
+
+Feel free to check out other cool repositories of EddieJoaude Community [here](https://github.com/EddieJaoudeCommunity)
