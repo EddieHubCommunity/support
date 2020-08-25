@@ -28,16 +28,18 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 ---
  ## Guide
 
-  <li> Actions go under issues </li>
-      <ul>
-      <li style='list-style:circle; '>Bugs</li>
-      <li style='list-style:circle; '>Add me to the organisation</li>
-      </ul>
-   <li> Miscellaneous go under Discussions  </li>
-      <ul>
-      <li style='list-style:circle;'> Questions </li>
-      <li style='list-style:circle; '>Ideas (then once discussed an Issue could be created and linked to the Discussion thread) </li>
-      </ul>
+   - Actions go under issues 
+   
+      - Bugs
+      
+      - Add me to the organisation 
+      
+   - Miscellaneous go under Discussions
+   
+     - Questions
+     
+     - Ideas (then once discussed an Issue could be created and linked to the Discussion thread) 
+    
       Feel free to check out other cool repositories of EddieJoaude Community 
       <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
 
