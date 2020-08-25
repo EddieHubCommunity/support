@@ -26,6 +26,22 @@ We could then have folks to have their own "support" repository and be able to P
 Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/support/issues) for sticking issues with this and we can all pair on this.
 
 ---
+ ## Guide
+
+   - Actions go under issues 
+   
+      - Bugs
+      
+      - Add me to the organisation 
+      
+   - Miscellaneous go under Discussions
+   
+     - Questions
+     
+     - Ideas (then once discussed an Issue could be created and linked to the Discussion thread) 
+    
+      Feel free to check out other cool repositories of EddieJoaude Community 
+      <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
 
 ## Socials
 
