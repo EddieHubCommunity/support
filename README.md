@@ -38,7 +38,9 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
    
      - Questions
      
-     - Ideas (then once discussed an Issue could be created and linked to the Discussion thread) 
+     - Ideas (then once discussed an Issue could be created and linked to the Discussion thread)
+	 
+	 - Showcase of Open Source Portfolios to get feedback from community members.
     
       Feel free to check out other cool repositories of EddieJoaude Community 
       <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
