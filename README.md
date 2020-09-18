@@ -56,23 +56,3 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 
 Join our discord community [here](https://discord.gg/jZQs6Wu)   
 Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://cakebaby.dev"><img src="https://avatars1.githubusercontent.com/u/62059002?v=4" width="100px;" alt=""/><br /><sub><b>Ruth Ikegah</b></sub></a><br /><a href="https://github.com/EddieJaoudeCommunity/support/commits?author=Ruth-ikegah" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://ste.london"><img src="https://avatars0.githubusercontent.com/u/150512?v=4" width="100px;" alt=""/><br /><sub><b>Stephen Mount</b></sub></a><br /><a href="https://github.com/EddieJaoudeCommunity/support/commits?author=stemount" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
