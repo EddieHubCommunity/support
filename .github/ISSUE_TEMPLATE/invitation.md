@@ -3,8 +3,9 @@ name: Invitation to the GitHub Community Organisation
 about: I would like to be part of the awesome community
 title: 'Please invite me to the GitHub Community Organisation'
 labels: 'invite me to the organisation'
-assignees: 'eddiejaoude'
-
+assignees: 
+  - 'eddiejaoude'
+  - 'mikeysan'
 ---
 
 Invitation will be sent for the GitHub Organisation soon. We look forward to having you part of our community :nerd:
