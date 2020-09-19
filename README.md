@@ -49,6 +49,14 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 - **What is a GitHub Organisation?** Essentially it's a way to group many repositories in an entity called a organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieJaoudeCommunity).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organisation?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
+- **How do I set the Organisation to Public** You can make the organization public by: 
+	1. Going on to our community page: https://github.com/EddieJaoudeCommunity
+	2. Click on people in this box: <br />
+	![Screenshot_20200916_230238](https://user-images.githubusercontent.com/17693494/93422448-09f0f280-f871-11ea-94d8-c48924a0222e.png)
+	3. Search for yourself in this input: <br />
+	![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
+	4. Click Private (Default - Example is set to Public). Select if you would like it be public or private. <br />
+	![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/94).
 - **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
 
