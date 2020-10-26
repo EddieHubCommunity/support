@@ -28,13 +28,13 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 ---
  ## Guide
 
-   - Actions go under issues 
+   - Actions go under [issues](https://github.com/EddieJaoudeCommunity/support/issues)
    
       - Bugs
       
       - Add me to the organisation 
       
-   - Miscellaneous go under Discussions
+   - Miscellaneous go under [Discussions](https://github.com/EddieJaoudeCommunity/support/discussions)
    
      - Questions
      
