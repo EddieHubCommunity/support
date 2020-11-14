@@ -1,14 +1,14 @@
 ---
-name: Invitation to the GitHub Community Organisation
+name: Invitation to the GitHub Community Organization
 about: I would like to be part of the awesome community
-title: 'Please invite me to the GitHub Community Organisation'
-labels: 'invite me to the organisation'
+title: 'Please invite me to the GitHub Community Organization'
+labels: 'invite me to the organization'
 assignees: eddiejaoude, mikeysan
 ---
 
-Invitation will be sent for the GitHub Organisation soon. We look forward to having you part of our community :nerd:
+Invitation will be sent for the GitHub Organization soon. We look forward to having you part of our community :nerd:
 
-Don't forget after accepting to make it public so it appears on your github profile for everyone else to see, you can do this by finding your name in the github organisation list and change the dropdown to public https://github.com/orgs/EddieJaoudeCommunity/people
+Don't forget after accepting to make it public so it appears on your github profile for everyone else to see, you can do this by finding your name in the github organization list and change the dropdown to public https://github.com/orgs/EddieJaoudeCommunity/people
 
 Tips for practicing:
 
