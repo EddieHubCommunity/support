@@ -11,7 +11,7 @@ Imagine the scenario where you are helping a stranger (or a new friend), a frien
 
 You volunteer to help that person, you pair on it, it's fixed and they're super happy.
 
-The unfortunate thing about this is it then lacks a write up on what was used, what articles were used etc (which would be reference articles) - we could simply use a GitHub issue queue for this - so folks could Google for somebody with the same problem!
+The unfortunate thing about this is it then lacks a write-up on what was used, what articles were used etc (which would be reference articles) - we could simply use a GitHub issue queue for this - so folks could Google for somebody with the same problem!
 
 Unfortunately, StackOverflow has a bit of a broken reputation system where folks with the "worst accepted answer" can actually start to get privileges to do more things.
 
@@ -46,7 +46,7 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
       <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
 
 ## FAQ
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called a organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieJaoudeCommunity).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieJaoudeCommunity).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
 - **How do I set the Organization to Public** You can make the organization public by: 
@@ -59,12 +59,12 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/94).
 - **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
-- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget contributing to open source is not just about code, it's about collaboration, communication and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble you can ask questions in our Discord, we have a channel for `first-timers` and `opensource`.
+- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget contributing to open source is not just about code, it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question: smiley. If you have any trouble you can ask questions in our Discord, we have a channel for `first-timers` and `opensource`.
 
   Here is a list of resources that also might help you start contributing to open source:
   - [How to get started in hackathons](https://github.com/EddieJaoudeCommunity/support/issues/32)
   - [Open source tips from EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot/tree/develop/tips)
-- **How to look for an open source project to contribute?** Check [Finding Open Source Projects](Finding-Open-Source-Projects.md)
+- **How to look for an open-source project to contribute?** Check [Finding Open Source Projects](Finding-Open-Source-Projects.md)
 
 ## Socials
 
