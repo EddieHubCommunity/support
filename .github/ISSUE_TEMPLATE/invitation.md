@@ -16,6 +16,9 @@ Tips for practicing:
 I hope that helps
 -->
 
+Please invite me to the GitHub Community Organisation.
+<!--more-specification(if any)-->
+
 <!--Some Details-->
 Name:
 
@@ -27,3 +30,4 @@ Additional Context:
 
 <!--What do you like about this community/ why do you want to join--> 
 
+:nerd:
