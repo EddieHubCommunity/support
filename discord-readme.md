@@ -66,11 +66,15 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 -> #bot-chat: discuss bots, esp. regarding development of EddieBot
 
 TECH: Channels regarding specific areas and languages
+
 ->  #git, #cloud, #python, #linux, #javascript, #typescript, #devops, #tech-other, #php, #java, #go, #svelte, #c-langs.
 
 CHILLING: Channels to geek out in, mostly about off-topic stuff
 
 -> #moaning: for rant / venting and supporting each other
+
 -> #chatting: geek out about off-topic content
+
 -> #healthfitness: health and fitness(not very active atm, lets improve this)
+
 -> #random: content that is off-topic and without relevance to topic
