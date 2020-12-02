@@ -78,3 +78,9 @@ CHILLING: Channels to geek out in, mostly about off-topic stuff
 -> #healthfitness: health and fitness(not very active atm, lets improve this)
 
 -> #random: content that is off-topic and without relevance to topic
+
+ALERTS
+-> #announcements: Announcement channel
+-> #livestream: Channel for live stream updates of Eddie's youtube channel
+-> #bot-logs: Logs of EddieBotDev
+-> #github: Updates from the github community
