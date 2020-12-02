@@ -7,10 +7,12 @@ This file contains various tips and tricks for using the `git` CLI (and GitHub t
 Some helpful `git` and GitHub related terms.
 
 - `repository`: A repository is like a folder that holds a project's files, but unlike other folders a repository is tracked for changes by `git`.
+- `repo`: An abbreviated short form of `repository`.
 - `commit`: A commit holds the specific changes to files that were made since the last `commit`.
 - `PR`: Short for "Pull Request", this is a request to merge the changes made on one repository or branch into another repository or branch.
 - `branch`: A branch is like a new workspace for the same project, allowing you to work on changes, commit them, and push them to a repository without affecting the original branch.
 - `fork`: A forked repository is a "copy" of a repository that has references to the original. GitHub will track differences between a fork and a source for you, and show the number of different commits.
+- `clone`: Cloning a repository is the process of bringing the files and configuration from the online/external location to your local machine.
 - `remote`: A remote repository is a repository stored outside your local computer (so, on GitHub or GitLab for example).
 
 ## Rebasing a Fork
