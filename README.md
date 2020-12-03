@@ -7,7 +7,7 @@ Raise an issue to join the EddieJaoudeCommunity GitHub community.
 
 ### Some vague idea of how we could turn this into a support channel.
 
-Imagine the scenario where you are helping a stranger (or a new friend), a friend or a colleague on Discord/MS Teams/Slack/YouTube/whatever, they may have found an old article from 5 years ago+ about Docker that is not supported, a Node.js article that isn't supported in Node v14 and that sort of thing...
+Imagine the scenario where you are helping a stranger (or a new friend), a friend or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported, a Node.js article that isn't supported in Node v14 and that sort of thing...
 
 You volunteer to help that person, you pair on it, it's fixed and they're super happy.
 
