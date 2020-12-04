@@ -2,7 +2,7 @@
 name: Bug
 about: Create a bug-report to help us address errors in the repo.
 title: '[BUG]'
-labels: bug
+labels: 'bug'
 assignees: ''
 
 ---
