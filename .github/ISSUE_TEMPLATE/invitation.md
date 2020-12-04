@@ -21,12 +21,12 @@ Please invite me to the GitHub Community Organisation.
 <!--more-specification(if any)-->
 
 <!--Some Details-->
-Name:
+- #### Name:
 
-Discord Username(if exists): 
+- #### Discord Username(if exists): 
 <!--https://discord.gg/ErG8W36Tkm (link to our discord server)-->
 
-Additional Context:
+- #### Additional Context:
 <!--Where did you meet Eddie?-->
 
 <!--What do you like about this community/ why do you want to join--> 
