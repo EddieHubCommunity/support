@@ -1,7 +1,7 @@
 ---
 name: Bug
-about: Describe this issue template's purpose here.
-title: ''
+about: Create a bug-report to help us address errors in the repo.
+title: '[BUG]'
 labels: bug
 assignees: ''
 
@@ -10,6 +10,7 @@ assignees: ''
 **Description**
 
 A brief description of the question or issue, also include what you tried and what didn't work:
+<!--A clear and concise description of what the bug is.-->
 
 **Stack**
 
