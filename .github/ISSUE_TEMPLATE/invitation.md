@@ -2,7 +2,7 @@
 name: Invitation to the GitHub Community Organization
 about: I would like to be part of the awesome community
 title: 'Please invite me to the GitHub Community Organization'
-labels: 'invite me to the organization'
+labels: invite me to the organization
 assignees: eddiejaoude, mikeysan
 ---
 
