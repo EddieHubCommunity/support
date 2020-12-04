@@ -9,7 +9,6 @@ assignees: ''
 
 **Description**
 
-A brief description of the question or issue, also include what you tried and what didn't work:
 <!--A clear and concise description of what the bug is.-->
 
 **Stack**
