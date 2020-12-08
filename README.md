@@ -48,10 +48,10 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieJaoudeCommunity).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
-- **How do I set the Organization to Public** You can make the organization public by: 
+- **How do I set the Organization to Public?** You can make the organization public by: 
 	1. Going on to our community page: https://github.com/EddieJaoudeCommunity
-	2. Click on people in this box: <br />
-	![Screenshot_20200916_230238](https://user-images.githubusercontent.com/17693494/93422448-09f0f280-f871-11ea-94d8-c48924a0222e.png)
+	2. Click on the red circled area in this box: <br />
+	![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
 	3. Search for yourself in this input: <br />
 	![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
 	4. Click Private (Default - Example is set to Public). Select if you would like it be public or private. <br />
