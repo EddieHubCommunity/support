@@ -49,20 +49,19 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
 - **How do I set the Organization to Public?** You can make the organization public by: 
-	- Going on to our community page: https://github.com/EddieJaoudeCommunity
+	- Navigate to our community page: https://github.com/EddieJaoudeCommunity
 	
-	- Click on the red circled area in this box:
+	- Click on the highlighted area:
 	
-	![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
+		![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
 	
-	- Search for yourself in this input:
+	- Enter your username in the highlighted searchbar:
 	
-	![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
+		![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
 	
-	- Click Private (Default - Example is set to Public). Select if you would like it be public or private.
+	- Click `Private` (the default) and set it to `Public`
 	
-	
-	![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 	
 	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/94).
