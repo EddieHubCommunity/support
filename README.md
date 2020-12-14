@@ -49,13 +49,22 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
 - **How do I set the Organization to Public?** You can make the organization public by: 
-	1. Going on to our community page: https://github.com/EddieJaoudeCommunity
-	2. Click on the red circled area in this box: <br />
+	- Going on to our community page: https://github.com/EddieJaoudeCommunity
+	
+	- Click on the red circled area in this box:
+	
 	![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
-	3. Search for yourself in this input: <br />
+	
+	- Search for yourself in this input:
+	
 	![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
-	4. Click Private (Default - Example is set to Public). Select if you would like it be public or private. <br />
+	
+	- Click Private (Default - Example is set to Public). Select if you would like it be public or private.
+	
+	
 	![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+	
+	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/94).
 - **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
 - **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget contributing to open source is not just about code, it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble you can ask questions in our Discord, we have a channel for `first-timers` and `opensource`.
