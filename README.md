@@ -57,7 +57,7 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 	
 	- Enter your username in the highlighted searchbar:
 	
-		![Screenshot_20200916_230735](https://user-images.githubusercontent.com/17693494/93422822-debad300-f871-11ea-8eb5-ad472b26086d.png)
+		![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
 	
 	- Click `Private` (the default) and set it to `Public`
 	
