@@ -1,0 +1,16 @@
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.1
+        with:
+          organization: EddieJaoudeCommunity
+          label: invite me to the organisation
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
