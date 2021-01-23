@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Invite on label
-        uses: vj-abigo/invite-on-label@v1.1
+        uses: vj-abigo/invite-on-label@v1.2
         with:
           organization: EddieJaoudeCommunity
           label: invite me to the organisation
