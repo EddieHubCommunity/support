@@ -37,47 +37,39 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #introductions: give yourself an introduction, and familiarising with the community
 
+-> #achivements: share your personal achivements with the community
+
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
 -> #opensource: discussing interesting open source news and information, that may or may not be related to EddieJaoudeCommunity
 
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
 
+-> #mlh: Major League Hacking -> see more at https://mlh.io/
+
 -> #help: ask for help or provide help to the members of the community
-
--> #resources: a reservoir for the vast amounts of resources, that can and will be referred in the community, regarding diverse topics
-
--> #remote-working: discussion regarding working remotely
 
 -> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd: 
 
--> #soft-skills: these are also hard, so lets discuss
-
 -> #organisation: our community's GitHub org
-
--> #careers: advice from the members of the community and from experts in the field about your career
 
 -> #first-timers: get :green_square: to get you started in open source on GitHub - opportunities are provided for first-timers
 
 -> #content-share: share web content
 
--> #virtual-events: events being hosted in the opensource community
-
 -> #bot-chat: discuss bots, esp. regarding development of EddieBot
 
-TECH: Channels regarding specific areas and languages
+-> #battle-stations: here you can start a battle of course with battlesnake
 
-->  #git, #cloud, #python, #linux, #javascript, #typescript, #devops, #tech-other, #php, #java, #go, #svelte, #c-langs.
+TECH: Channels regarding specific areas
+
+->  #ux-ui, #frontend, #backend, #linux, #devops, #cloud, #git, #ml-ai, #databases, #tech-other
 
 CHILLING: Channels to geek out in, mostly about off-topic stuff
 
--> #moaning: for rant / venting and supporting each other
-
 -> #chatting: geek out about off-topic content
 
--> #healthfitness: health and fitness(not very active atm, lets improve this)
-
--> #random: content that is off-topic and without relevance to topic
+-> #healthfitness: health and fitness caus you want to get thos bizeps
 
 ALERTS
 -> #announcements: Announcement channel
