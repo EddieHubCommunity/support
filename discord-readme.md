@@ -1,4 +1,4 @@
-**Welcome to the EddieJaoudeCommunity Discord server!**
+**Welcome to the EddieHubCommunity Discord server!**
 
 We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
@@ -20,7 +20,7 @@ The following are the guidelines regarding chat on the discord server:
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 - Showing empathy towards other community members
-Full details on https://github.com/EddieJaoudeCommunity/support/blob/main/CODE_OF_CONDUCT.md
+Full details on https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md
 
 **Enforcement:**
 
@@ -41,7 +41,7 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
--> #opensource: discussing interesting open source news and information, that may or may not be related to EddieJaoudeCommunity
+-> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
 
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
 
