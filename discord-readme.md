@@ -69,7 +69,7 @@ CHILLING: Channels to geek out in, mostly about off-topic stuff
 
 -> #chatting: geek out about off-topic content
 
--> #healthfitness: health and fitness caus you want to get thos bizeps
+-> #healthfitness: health and fitness caus you want to get those bizeps
 
 ALERTS
 -> #announcements: Announcement channel
