@@ -45,11 +45,11 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
       <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
 
 ## FAQ
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieJaoudeCommunity).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieHubCommunity).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
 - **How do I set the Organization to Public?** You can make the organization public by: 
-	- Navigate to our community page: https://github.com/EddieJaoudeCommunity
+	- Navigate to our community page: https://github.com/EddieHubCommunity
 	
 	- Click on the highlighted area:
 	
