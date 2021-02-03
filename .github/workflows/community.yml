@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: EddieJaoudeCommunity/gh-action-community/src/welcome@main
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong>! Welcome to the community :nerd_face:'
@@ -27,6 +27,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: EddieJaoudeCommunity/gh-action-community/src/statistics@main
+      - uses: EddieHubCommunity/gh-action-community/src/statistics@main
         with:
           firebase-key: ${{ secrets.FIREBASE_KEY }}
