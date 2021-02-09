@@ -20,8 +20,8 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong>! Welcome to the community :nerd_face:'
-          pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for creating a <strong>Pull Request</strong>! Welcome to the community :nerd_face:'
+          issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong> and welcome to the community :nerd_face:'
+          pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for creating a <strong>Pull Request</strong> and welcome to the community :nerd_face:'
 
   statistics:
     runs-on: ubuntu-latest
