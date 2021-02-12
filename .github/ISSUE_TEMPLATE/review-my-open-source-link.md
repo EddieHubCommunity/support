@@ -15,4 +15,4 @@ Items we can review on a live stream:
 
 You can also join the discord community [here](https://discord.com/invite/jZQs6Wu)
 
-Feel free to check out other cool repositories of Eddie Jaoude Community [here](https://github.com/EddieJaoudeCommunity)
+Feel free to check out other cool repositories of EddieHub [here](https://github.com/EddieHubCommunity)
