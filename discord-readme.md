@@ -37,7 +37,7 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #introductions: give yourself an introduction, and familiarising with the community
 
--> #achivements: share your personal achivements with the community
+-> #achievements: share your personal achievements with the community
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
