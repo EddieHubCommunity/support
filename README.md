@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](https://discord.gg/jZQs6Wu)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an issue to join the EddieJaoudeCommunity GitHub community.
+Raise an issue to join the EddieHubCommunity GitHub community.
 
 ### Some vague idea of how we could turn this into a support channel.
 
@@ -41,11 +41,11 @@ Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/suppo
 	 
 	 - Showcase of Open Source Portfolios to get feedback from community members.
     
-      Feel free to check out other cool repositories of EddieJoaude Community 
-      <a href='https://github.com/EddieJaoudeCommunity'>here</a>.
+      Feel free to check out other cool repositories of EddieHub Community 
+      <a href='https://github.com/EddieHubCommunity'>here</a>.
 
 ## FAQ
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Jaoude Community](https://github.com/EddieHubCommunity).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook) and of course [Eddie Hub Community](https://github.com/EddieHubCommunity).
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([examples](https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aclosed+label%3A%22invite+me+to+the+organisation%22)).
 - **How do I set the Organization to Public?** You can make the organization public by: 
