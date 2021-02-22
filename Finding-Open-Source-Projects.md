@@ -4,7 +4,7 @@ So, you decided you want to start contributing to open source. Great :thumbsup:!
 We know this can be a difficult process, especially if it's your first time contributing to open source. For that reason, we have assimilated a list of tips to help you find a project to contribute to. The list also contains links to other resources about this topic from various authors, to help you further in finding projects that welcome contributors such as yourself :smiley:.
 
 ## Tips
-- Look at our projects in the [Eddie Hub Community](https://github.com/EddieHubCommunity) GitHub organization.
+- Look at our projects in the [EddieHub](https://github.com/EddieHubCommunity) GitHub organization.
 - Have a look at your friends and community projects
 - A good place to find projects is Twitter. People share projects on what they are working on, or simply repositories they found interesting (e.g. [tweet](https://twitter.com/SimonHoiberg/status/1312048992604258313)).
 - Look at the projects/libraries/frameworks you already use, are there improvements you can make, or look at their issues list.
