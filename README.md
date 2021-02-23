@@ -71,7 +71,7 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
   Here is a list of resources that also might help you start contributing to open source:
   - [How to get started in hackathons](https://github.com/EddieJaoudeCommunity/support/issues/32)
   - [Open source tips from EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot/tree/develop/tips)
-- **How to look for an open-source project to contribute?** Check [Finding Open Source Projects](./tips/Finding-Open-Source-Projects.md)
+- **How to look for an open-source project to contribute?** Check [Finding Open Source Projects](./tips/finding-open-source-projects.md)
 
 ## Socials
 
