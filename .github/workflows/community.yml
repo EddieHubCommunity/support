@@ -22,6 +22,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: '<h1>It''s great having you contribute to this project</h1> Thank you for raising an <strong>Issue</strong> and welcome to the community :nerd_face:'
           pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for creating a <strong>Pull Request</strong> and welcome to the community :nerd_face:'
+          footer: 'Join our <a href="http://discord.eddiehub.org">Discord</a> and <a href="http://github.eddiehub.org">GitHub</a> Organisation'
 
   statistics:
     runs-on: ubuntu-latest
