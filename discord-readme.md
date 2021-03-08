@@ -2,7 +2,7 @@
 
 We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
-We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network.
+We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers and #good-first-issues , if you get stuck somewhere feel free to ask help in the community, you'll find someone who can help you for sure and others will learn along too!
 
 **Please try to adhere by our Code Of Coduct(COC):**
 
@@ -54,6 +54,8 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 -> #organisation: our community's GitHub org
 
 -> #first-timers: get :green_square: to get you started in open source on GitHub - opportunities are provided for first-timers
+
+-> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors
 
 -> #content-share: share web content
 
