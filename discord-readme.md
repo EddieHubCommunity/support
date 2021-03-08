@@ -53,9 +53,9 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #organisation: our community's GitHub org
 
--> #first-timers: get :green_square: to get you started in open source on GitHub - opportunities are provided for first-timers
+-> #first-timers: discussion about getting :green_square: 
 
--> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors
+-> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
 -> #content-share: share web content
 
