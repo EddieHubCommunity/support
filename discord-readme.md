@@ -41,7 +41,8 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
--> #healthfitness: health and fitness caus you want to get those bizeps
+-> #healthfitness: health and fitness because you want to get those biceps
+
 
 -> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
 
