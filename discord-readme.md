@@ -41,6 +41,8 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
+-> #healthfitness: health and fitness caus you want to get those bizeps
+
 -> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
 
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
@@ -65,16 +67,9 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 TECH: Channels regarding specific areas
 
-->  #ux-ui, #frontend, #backend, #linux, #devops, #cloud, #git, #ml-ai, #databases, #tech-other
-
-CHILLING: Channels to geek out in, mostly about off-topic stuff
-
--> #chatting: geek out about off-topic content
-
--> #healthfitness: health and fitness caus you want to get those bizeps
+->  #ux-ui, #frontend, #backend, #linux, #devops, #git, #ml-ai, #databases, #tech-other
 
 ALERTS
--> #announcements: Announcement channel
--> #livestream: Channel for live stream updates of Eddie's youtube channel
+-> #youtube: Channel for live stream updates of Eddie's youtube channel
 -> #bot-logs: Logs of EddieBotDev
 -> #github: Updates from the github community
