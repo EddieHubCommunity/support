@@ -37,13 +37,6 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #introductions: give yourself an introduction, and familiarising with the community
 
--> #achievements: share your personal achievements with the community
-
--> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
-
--> #healthfitness: health and fitness because you want to get those biceps
-
-
 -> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
 
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
@@ -66,6 +59,14 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> #battle-stations: here you can start a battle of course with battlesnake
 
+DAILY:
+
+-> #healthfitness: health and fitness because you want to get those biceps
+
+-> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
+
+-> #achievements: share your personal achievements with the community
+
 TECH: Channels regarding specific areas
 
 ->  #ux-ui, #frontend, #backend, #linux, #devops, #git, #ml-ai, #databases, #tech-other
@@ -79,4 +80,9 @@ ALERTS:
 -> #github: Updates from the github community
 
 You can raise an issue or a Pull request here -https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md  if you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
+
+**Where to join our GITHUB community?**
+
+-> Create an Issue with the type `invite me to the GitHub Community Org`
+https://github.com/EddieHubCommunity/support/issues/new/choose
 
