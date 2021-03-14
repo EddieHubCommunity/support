@@ -74,3 +74,6 @@ ALERTS
 -> #youtube: Channel for live stream updates of Eddie's youtube channel
 -> #bot-logs: Logs of EddieBotDev
 -> #github: Updates from the github community
+
+You can raise an issue or a Pull request here -https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md  if you find any necessary changes to be made in the README,get started with open source and get your :green_square: right away!
+
