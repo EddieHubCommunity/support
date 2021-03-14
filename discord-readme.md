@@ -33,31 +33,19 @@ NOTE: EddieBot is still in development, and there might be a few words flagged b
 **Information Regarding Channels:**
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic
 
+GENERAL DISCUSSION:
+
 -> #general: main text chat
 
 -> #introductions: give yourself an introduction, and familiarising with the community
 
--> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
-
--> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
-
--> #mlh: Major League Hacking -> see more at https://mlh.io/
-
 -> #help: ask for help or provide help to the members of the community
 
--> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd: 
-
--> #organisation: our community's GitHub org
-
--> #first-timers: discussion about getting :green_square: 
-
--> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+-> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
 -> #content-share: share web content
 
 -> #bot-chat: discuss bots, esp. regarding development of EddieBot
-
--> #battle-stations: here you can start a battle of course with battlesnake
 
 DAILY:
 
@@ -66,6 +54,24 @@ DAILY:
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
 -> #achievements: share your personal achievements with the community
+
+COMMUNITY DISCUSSION:
+
+-> #organisation: our community's GitHub org
+
+-> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+
+-> #first-timers: discussion about getting :green_square: 
+
+-> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
+
+-> #mlh: Major League Hacking -> see more at https://mlh.io/
+
+-> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
+
+-> #battle-stations: here you can start a battle of course with battlesnake
+
+-> #public-speaking: improve your soft skills, public speaking and build communities
 
 TECH: Channels regarding specific areas
 
