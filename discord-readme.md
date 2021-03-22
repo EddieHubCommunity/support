@@ -33,48 +33,62 @@ NOTE: EddieBot is still in development, and there might be a few words flagged b
 **Information Regarding Channels:**
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic
 
+GENERAL DISCUSSION:
+
 -> #general: main text chat
 
 -> #introductions: give yourself an introduction, and familiarising with the community
 
--> #achievements: share your personal achievements with the community
-
--> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
-
--> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
-
--> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
-
--> #mlh: Major League Hacking -> see more at https://mlh.io/
-
 -> #help: ask for help or provide help to the members of the community
 
--> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd: 
-
--> #organisation: our community's GitHub org
-
--> #first-timers: discussion about getting :green_square: 
-
--> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+-> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
 -> #content-share: share web content
 
 -> #bot-chat: discuss bots, esp. regarding development of EddieBot
 
+DAILY:
+
+-> #healthfitness: health and fitness because you want to get those biceps
+
+-> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
+
+-> #achievements: share your personal achievements with the community
+
+COMMUNITY DISCUSSION:
+
+-> #organisation: our community's GitHub org
+
+-> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+
+-> #first-timers: discussion about getting :green_square: 
+
+-> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
+
+-> #mlh: Major League Hacking -> see more at https://mlh.io/
+
+-> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
+
 -> #battle-stations: here you can start a battle of course with battlesnake
+
+-> #public-speaking: improve your soft skills, public speaking and build communities
 
 TECH: Channels regarding specific areas
 
-->  #ux-ui, #frontend, #backend, #linux, #devops, #cloud, #git, #ml-ai, #databases, #tech-other
+->  #ux-ui, #frontend, #backend, #linux, #devops, #git, #ml-ai, #databases, #tech-other
 
-CHILLING: Channels to geek out in, mostly about off-topic stuff
+ALERTS:
 
--> #chatting: geek out about off-topic content
+-> #youtube: Channel for live stream updates of Eddie's youtube channel
 
--> #healthfitness: health and fitness caus you want to get those bizeps
-
-ALERTS
--> #announcements: Announcement channel
--> #livestream: Channel for live stream updates of Eddie's youtube channel
 -> #bot-logs: Logs of EddieBotDev
+
 -> #github: Updates from the github community
+
+You can raise an issue or a Pull request here -https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md  if you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
+
+**Where to join our GITHUB community?**
+
+-> Create an Issue with the type `invite me to the GitHub Community Org`
+https://github.com/EddieHubCommunity/support/issues/new/choose
+
