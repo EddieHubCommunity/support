@@ -2,7 +2,7 @@
 name: Open Source Project Review
 about: Please review my project on a live stream
 title: '[REVIEW]'
-labels: oss project review
+labels: open source review
 assignees: ''
 ---
 
