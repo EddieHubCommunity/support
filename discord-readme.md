@@ -47,7 +47,6 @@ GENERAL DISCUSSION:
 -> #content-share: share web content
 
 -> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot, or use the other bot commands.
-
 DAILY:
 
 -> #healthfitness: share your tips on health and fitness so we can be healthy together.
