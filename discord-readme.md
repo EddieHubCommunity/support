@@ -63,7 +63,8 @@ COMMUNITY DISCUSSION:
 
 -> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
--> #first-timers: discussion about getting :green_square: and also the issues that is mentioned in the #good-first-issues
+-> #first-timers: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
+
 
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
 
