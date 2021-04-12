@@ -64,7 +64,6 @@ COMMUNITY DISCUSSION:
 
 -> #first-timers: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
 
-
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
 
 -> #mlh: Major League Hacking -> see more at https://mlh.io/
