@@ -46,7 +46,8 @@ GENERAL DISCUSSION:
 
 -> #content-share: share web content
 
--> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot.
+-> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot, or use the other bot commands.
+
 
 DAILY:
 
@@ -92,4 +93,3 @@ You can raise an issue or a Pull request here -https://github.com/EddieHubCommun
 
 -> Create an Issue with the type `invite me to the GitHub Community Org`
 https://github.com/EddieHubCommunity/support/issues/new/choose
-
