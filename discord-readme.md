@@ -51,7 +51,7 @@ GENERAL DISCUSSION:
 
 DAILY:
 
--> #healthfitness: share your tips on health and fitness so we can be healthfitness together.
+-> #healthfitness: share your tips on health and fitness so we can be healthy together.
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
