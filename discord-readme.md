@@ -31,6 +31,7 @@ EddieBotDev (or EddieBot), would be monitoring language used on the discord serv
 NOTE: EddieBot is still in development, and there might be a few words flagged by it which should not have been flagged. Open an issue on the repo and get a green square!
 
 **Information Regarding Channels:**
+
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic
 
 GENERAL DISCUSSION:
@@ -45,11 +46,10 @@ GENERAL DISCUSSION:
 
 -> #content-share: share web content
 
--> #bot-chat: discuss bots, esp. regarding development of EddieBot
-
+-> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot, or use the other bot commands.
 DAILY:
 
--> #healthfitness: health and fitness because you want to get those biceps
+-> #healthfitness: share your tips on health and fitness so we can be healthy together.
 
 -> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
 
@@ -61,15 +61,14 @@ COMMUNITY DISCUSSION:
 
 -> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
--> #first-timers: discussion about getting :green_square: 
-
+-> #first-timers: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
 -> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
 
 -> #mlh: Major League Hacking -> see more at https://mlh.io/
 
 -> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
 
--> #battle-stations: here you can start a battle of course with battlesnake
+-> #battle-stations: here you can share your workstation or workspace
 
 -> #public-speaking: improve your soft skills, public speaking and build communities
 
@@ -91,4 +90,3 @@ You can raise an issue or a Pull request here -https://github.com/EddieHubCommun
 
 -> Create an Issue with the type `invite me to the GitHub Community Org`
 https://github.com/EddieHubCommunity/support/issues/new/choose
-
