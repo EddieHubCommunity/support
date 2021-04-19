@@ -2,7 +2,7 @@
 name: Github Profile Review
 about: Please review my github profile on a live stream
 title: '[REVIEW]'
-labels: gh profile review
+labels: gh profile review, live stream review'
 assignees: ''
 ---
 
