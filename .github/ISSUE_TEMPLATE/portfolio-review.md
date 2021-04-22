@@ -2,7 +2,7 @@
 name: Portfolio Review
 about: Please review my Portfolio on a live stream
 title: '[REVIEW]'
-labels: portfolio review
+labels: 'portfolio review, live stream review'
 assignees: ''
 ---
 
