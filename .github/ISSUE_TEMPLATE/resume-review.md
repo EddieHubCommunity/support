@@ -2,7 +2,7 @@
 name: resume-review
 about: Please review my resume on a live stream
 title: '[REVIEW]'
-labels: resume review
+labels: 'resume review, live stream review'
 assignees: ''
 ---
 
