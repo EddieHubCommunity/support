@@ -28,7 +28,7 @@ https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 Follow on other socials for behind the scenes footage, join discord to continue the conversation...
 
-http://eddiejaoude.github.io 
+http://eddiejaoude.io 
 https://github.com/eddiejaoude
 http://youtube.com/eddiejaoude
 http://twitter.com/eddiejaoude
