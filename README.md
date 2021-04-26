@@ -1,6 +1,6 @@
 # Community Support
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org/)
+[![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an issue to join the EddieHub GitHub community.
 
@@ -75,5 +75,5 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 
 ## Socials
 
-Join our discord community [here](http://discord.eddiehub.org/)   
+Join our discord community [here](http://discord.eddiehub.org)   
 Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
