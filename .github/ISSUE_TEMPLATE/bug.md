@@ -31,6 +31,6 @@ Please add a screenshot if applicable
 
 Add any other context about the problem here.
 
-You can also join the discord community [here](https://discord.com/invite/jZQs6Wu)
+You can also join the discord community [here](http://discord.eddiehub.org)
 
 Feel free to check out other cool repositories of EddieHub Community [here](https://github.com/EddieHubCommunity)
