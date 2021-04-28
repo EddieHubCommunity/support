@@ -1,9 +1,9 @@
 ...
 
 I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe ... 
-https://www.youtube.com/channel/UCSgOPmG1ACvVDi_VvdD-Qag
+https://www.youtube.com/eddiejaoudetv
 
-JOIN our inclusive open source community now for FREE ... http://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... http://eddiejaoude.io for my live stream + video schedule and community calls
+JOIN our inclusive open source community EddieHub now for FREE ... http://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... http://eddiejaoude.io for my live stream + video schedule and community calls
 
 Alslo join our community GitHub organisation by creating an issue with the type "invite me to the organisation" :)
 
