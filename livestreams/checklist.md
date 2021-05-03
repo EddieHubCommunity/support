@@ -1,0 +1,1 @@
+- Get the Discord window on screen so people watching the stream can figure out who's speaking at any given point of time.
