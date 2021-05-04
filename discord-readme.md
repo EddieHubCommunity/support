@@ -90,3 +90,23 @@ You can raise an issue or a Pull request here -https://github.com/EddieHubCommun
 
 -> Create an Issue with the type `invite me to the GitHub Community Org`
 https://github.com/EddieHubCommunity/support/issues/new/choose
+
+
+**How to ask for help**
+Tips to help you ask questions which will give you a better chance to get the best answers from everyone.
+
+1. **Read through your code first** Your problem could be as simple as a typo or a missing closing tag. 
+2. **Ask Google** Many code problems can be solved with a quick Google, so give this a try first. If that doesn't help, head back here to ask your question, and follow the tips below.
+3. **Clearly describe the problem.** Explain what is happening and what you want to happen. 
+4. **Share your code.** It’s very unlikely that anyone will be able to solve your problem without seeing your code. Share a GitHub repository, a GitHub gist link or format the code by wrapping it in backticks , like the example below. 
+
+    ```
+      //Your code goes here
+    ```
+
+5. **Send screenshots, if relevant** It often helps people to see the browser output, so send over a screenshot of what you can see, in this case. 
+6. **Explain what you have already tried.**  You don't want people to suggest things you have already done. 
+7. **Send updates so people know whether their answer has helped you.** 
+8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it. 
+
+
