@@ -6,7 +6,7 @@ labels: invite me to the organisation
 ---
 
 <!---
-An invitation will be sent to the GitHub Organization soon. We look forward to having you part of our community :nerd_face:
+An invitation for the GitHub Organization will be sent soon. We look forward to having you part of our community :nerd_face:
 Don't forget after accepting to make it public so it appears on your Github profile for everyone else to see, you can do this by finding your name in the Github organization list and change the dropdown to public https://github.com/orgs/EddieJaoudeCommunity/people
 Tips for practicing:
 - Customise your GitHub profile, here is a live stream on it https://www.youtube.com/watch?v=cT6GXCuS0Zo
