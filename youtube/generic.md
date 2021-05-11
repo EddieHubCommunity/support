@@ -1,10 +1,10 @@
 ## Youtube Channel
-Don’t forget to support Eddie's channel by subscribing it! It’s free: https://www.youtube.com/eddiejaoude?sub_confirmation=1
+Don’t forget to support my channel by subscribing it! It’s free: https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 **Make sure to tell your friends about it, so that they also learn something new!**
 
 ## Youtube Shorts
-There is another youtube channel by Eddie for short clips, please **take a moment subscribing it: https://www.youtube.com/eddiejaoudetv**
+I have another youtube channel for short clips, please **take a moment subscribing it: https://www.youtube.com/eddiejaoudetv**
 
 ## Join Our Community
 Join our inclusive open source community EddieHub now for **free** at http://eddiehub.org
@@ -32,7 +32,7 @@ Join Our **Community GitHub Organisation**:
 ---------------------------------------------------------------------------------------------------
 
 ## Social Media
-Follow Eddie's **Social Media For Behind The Scenes Footage**
+Follow My **Social Media For Behind The Scenes Footage**
 
 - Website: http://eddiejaoude.io 
 - GitHub: https://github.com/eddiejaoude
