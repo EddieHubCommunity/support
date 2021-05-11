@@ -13,7 +13,7 @@ Make sure to checkout my website and sign up to our community **newsletter**: ht
 
 Join Our **Community GitHub Organisation**:
 
-- Goto https://github.com/EddieHubCommunity/support/issues/choose 
+- Go to https://github.com/EddieHubCommunity/support/issues/choose 
 - Choose The Issue Type Of **Invite Me To The Organisation**
 - Open The Issue
 - You get a invite to the community by our GitHub Action 🎉
