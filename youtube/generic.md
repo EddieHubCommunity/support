@@ -43,4 +43,4 @@ Follow My **Social Media For Behind The Scenes Footage**
 - GitHub Community Org: http://github.com/EddieHubCommunity
 
 ## Next
-Join Our Conversation At Discord: https://discord.gg/Xr67UnzJCX
+Join Our Conversation At Discord: http://discord.eddiehub.org/
