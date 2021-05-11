@@ -1,20 +1,29 @@
-...
+## Youtube Channel
+Don’t forget to support Eddie's channel by subscribing it! It’s free: https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
-I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe ... 
-https://www.youtube.com/eddiejaoudetv
+**Make sure to tell your friends about it, so that they also learn something new!**
 
-JOIN our inclusive open source community EddieHub now for FREE ... http://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... http://eddiejaoude.io for my live stream + video schedule and community calls
+## Youtube Shorts
+There is another youtube channel by Eddie for short clips, please **take a moment subscribing it: https://www.youtube.com/eddiejaoudetv**
 
-Alslo join our community GitHub organisation by creating an issue with the type "invite me to the organisation" :)
+## Join Our Community
+Join our inclusive open source community EddieHub now for **free** at http://eddiehub.org
+
+Make sure to checkout my website and sign up to our community **newsletter**: http://eddiejaoude.io for my live stream + video schedule and community calls
+
+Join Our **Community GitHub Organisation**:
+
+- Goto https://github.com/EddieHubCommunity/support/issues/choose 
+- Choose The Issue Type Of **Invite Me To The Organisation**
+- Open The Issue
+- You get a invite to the community by our GitHub Action 🎉
 
 ---------------------------------------------------------------------------------------------------
 
-A BIG thank you to my GitHub Sponsors:
-***
-Stephen Mount http://github.com/stemount
-Nicholas Carrigan https://github.com/nhcarrigan
-***
+## Thanks To Sponsors
 
+- **Stephen Mount http://github.com/stemount**
+- **Nicholas Carrigan https://github.com/nhcarrigan**
 - Santosh Yadav https://github.com/santoshyadavdev
 - Andrew Cunliffe https://github.com/andrew-cunliffe
 - Alexander Stoichkov https://github.com/SashoStoichkov
@@ -22,16 +31,16 @@ Nicholas Carrigan https://github.com/nhcarrigan
 
 ---------------------------------------------------------------------------------------------------
 
-Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
-https://www.youtube.com/eddiejaoude?sub_confirmation=1
+## Social Media
+Follow Eddie's **Social Media For Behind The Scenes Footage**
 
-Follow on other socials for behind the scenes footage, join discord to continue the conversation...
+- Website: http://eddiejaoude.io 
+- GitHub: https://github.com/eddiejaoude
+- Youtube: http://youtube.com/eddiejaoude
+- Twitter: http://twitter.com/eddiejaoude
+- Instagram: http://instagram.com/eddiejaoude
+- Linkedin: http://linkedin.com/in/eddiejaoude
+- GitHub Community Org: http://github.com/EddieHubCommunity
 
-http://eddiejaoude.io 
-https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.com/invite/jZQs6Wu
-http://github.com/EddieHubCommunity
+## Next
+Join Our Conversation At Discord: https://discord.gg/Xr67UnzJCX
