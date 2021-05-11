@@ -22,8 +22,8 @@ Join Our **Community GitHub Organisation**:
 
 ## Thanks To Sponsors
 
-- **Stephen Mount http://github.com/stemount**
-- **Nicholas Carrigan https://github.com/nhcarrigan**
+- Stephen Mount http://github.com/stemount
+- Nicholas Carrigan https://github.com/nhcarrigan
 - Santosh Yadav https://github.com/santoshyadavdev
 - Andrew Cunliffe https://github.com/andrew-cunliffe
 - Alexander Stoichkov https://github.com/SashoStoichkov
