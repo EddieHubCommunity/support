@@ -20,7 +20,7 @@ Join Our **Community GitHub Organisation**:
 
 ---------------------------------------------------------------------------------------------------
 
-## Thanks To Sponsors
+## Big Thanks To Sponsors
 
 - Stephen Mount http://github.com/stemount
 - Nicholas Carrigan https://github.com/nhcarrigan
