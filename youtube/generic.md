@@ -16,7 +16,7 @@ Join Our **Community GitHub Organisation**:
 - Go to https://github.com/EddieHubCommunity/support/issues/choose 
 - Choose The Issue Type Of **Invite Me To The Organisation**
 - Open The Issue
-- You get a invite to the community by our GitHub Action 🎉
+- You get an invitation to the community by our GitHub Action 🎉
 
 ---------------------------------------------------------------------------------------------------
 
