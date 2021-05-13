@@ -10,7 +10,7 @@ Imagine the scenario where you are helping a stranger, a friend or a colleague o
 
 You volunteer to help that person and pair on it. You fix it. They're super happy.
 
-The unfortunate thing about this is that it lacks a write-up on what was used. It's important to know the articles that were used for refence purpose. This is where a GitHub issue queue comes in. That way, folks could Google for somebody with the same problem!
+The unfortunate thing about this is that it lacks a write-up on what was used. It's important to know the articles that were used for reference purpose. This is where a GitHub issue queue comes in. That way, folks could Google for somebody with the same problem!
 
 Unfortunately, StackOverflow has a bit of a broken reputation system where folks with the "worst accepted answer" can actually start to get privileges to do more things.
 
