@@ -20,6 +20,7 @@ Nicholas Carrigan https://github.com/nhcarrigan
 - Santosh Yadav https://github.com/santoshyadavdev
 - Andrew Cunliffe https://github.com/andrew-cunliffe
 - Alexander Stoichkov https://github.com/SashoStoichkov
+- Allan Regush https://github.com/AllanRegush
 
 ---------------------------------------------------------------------------------------------------
 
