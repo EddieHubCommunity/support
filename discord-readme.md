@@ -108,3 +108,11 @@ Tips to help you ask questions which will give you a better chance to get the be
 6. **Explain what you have already tried.** You don't want people to suggest things you have already done.
 7. **Send updates so people know whether their answer has helped you.**
 8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it.
+9. **Roles**
+
+    Our server has a number of roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events. 
+
+    To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
+
+    To assign a role, use `becca!role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `becca!role angular`.
+
