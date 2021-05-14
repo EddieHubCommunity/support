@@ -110,7 +110,7 @@ Tips to help you ask questions which will give you a better chance to get the be
 8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it.
 9. **Roles**
 
-    Our server has a number of roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events. 
+    Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events. 
 
     To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
 
