@@ -3,7 +3,7 @@ You have submitted your open source projects, let's go through them together on 
 I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe...
 https://www.youtube.com/eddiejaoudetv
 
-JOIN our inclusive open source community now for FREE... https://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... https://eddiejaoude.io for my live stream + video schedule and community calls
+JOIN our inclusive open source community now for FREE... https://www.eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
 Reviewing your Open Source projects #OpenSource #GitHub #DevRel
 
