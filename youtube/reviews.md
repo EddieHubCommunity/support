@@ -29,11 +29,11 @@ https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 Follow on other socials for behind the scenes footage, join discord to continue the conversation...
 
-https://eddiejaoude.io
-https://github.com/eddiejaoude
-https://youtube.com/eddiejaoude
-https://twitter.com/eddiejaoude
-https://instagram.com/eddiejaoude
-https://linkedin.com/in/eddiejaoude
-http://discord.eddiehub.org/
-http://github.com/EddieHubCommunity
+https://www.eddiejaoude.io
+https://www.github.com/eddiejaoude
+https://www.youtube.com/eddiejaoude
+https://www.twitter.com/eddiejaoude
+https://www.instagram.com/eddiejaoude
+https://www.linkedin.com/in/eddiejaoude
+http://www.discord.eddiehub.org/
+http://www.github.com/EddieHubCommunity
