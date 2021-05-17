@@ -35,5 +35,5 @@ https://www.youtube.com/eddiejaoude
 https://www.twitter.com/eddiejaoude
 https://www.instagram.com/eddiejaoude
 https://www.linkedin.com/in/eddiejaoude
-http://www.discord.eddiehub.org/
+http://discord.eddiehub.org/
 http://www.github.com/EddieHubCommunity
