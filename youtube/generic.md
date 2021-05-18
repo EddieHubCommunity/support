@@ -7,13 +7,13 @@ Don’t forget to support my channel by subscribing it! It’s free: https://www
 I have another youtube channel for short clips, please **take a moment subscribing it: https://www.youtube.com/eddiejaoudetv**
 
 ## Join Our Community
-Join our inclusive open source community EddieHub now for **free** at https://eddiehub.org
+Join our inclusive open source community EddieHub now for **free** at https://www.eddiehub.org
 
-Make sure to checkout my website and sign up to our community **newsletter**: https://eddiejaoude.io for my live stream + video schedule and community calls
+Make sure to checkout my website and sign up to our community **newsletter**: https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
 Join Our **Community GitHub Organisation**:
 
-- Go to https://github.com/EddieHubCommunity/support/issues/new/choose 
+- Go to https://www.github.com/EddieHubCommunity/support/issues/new/choose 
 - Choose The Issue Type Of **Invite Me To The Organisation**
 - Open The Issue
 - You get an invitation to the community by our GitHub Action 🎉
@@ -22,25 +22,25 @@ Join Our **Community GitHub Organisation**:
 
 ## Big Thanks To Sponsors
 
-- Stephen Mount https://github.com/stemount
-- Nicholas Carrigan https://github.com/nhcarrigan
-- Santosh Yadav https://github.com/santoshyadavdev
-- Andrew Cunliffe https://github.com/andrew-cunliffe
-- Alexander Stoichkov https://github.com/SashoStoichkov
-- Allan Regush https://github.com/AllanRegush
+- Stephen Mount https://www.github.com/stemount
+- Nicholas Carrigan https://www.github.com/nhcarrigan
+- Santosh Yadav https://www.github.com/santoshyadavdev
+- Andrew Cunliffe https://www.github.com/andrew-cunliffe
+- Alexander Stoichkov https://www.github.com/SashoStoichkov
+- Allan Regush https://www.github.com/AllanRegush
 
 ---------------------------------------------------------------------------------------------------
 
 ## Social Media
 Follow on socials for behind the scenes footage and more.
 
-- Website: https://eddiejaoude.io 
-- GitHub: https://github.com/eddiejaoude
-- Youtube: https://youtube.com/eddiejaoude
-- Twitter: https://twitter.com/eddiejaoude
-- Instagram: https://instagram.com/eddiejaoude
-- Linkedin: https://linkedin.com/in/eddiejaoude
-- GitHub Community Org: https://github.com/EddieHubCommunity
+- Website: https://www.eddiejaoude.io 
+- GitHub: https://www.github.com/eddiejaoude
+- Youtube: https://www.youtube.com/eddiejaoude
+- Twitter: https://www.twitter.com/eddiejaoude
+- Instagram: https://www.instagram.com/eddiejaoude
+- Linkedin: https://www.linkedin.com/in/eddiejaoude
+- GitHub Community Org: https://www.github.com/EddieHubCommunity
 
 ## Next
-Join Our Conversation At Discord: https://discord.eddiehub.org/
+Join Our Conversation At Discord: https://www.discord.eddiehub.org/
