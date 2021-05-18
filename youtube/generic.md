@@ -32,7 +32,7 @@ Join Our **Community GitHub Organisation**:
 ---------------------------------------------------------------------------------------------------
 
 ## Social Media
-Follow My **Social Media For Behind The Scenes Footage**
+Follow on socials for behind the scenes footage and more.
 
 - Website: http://eddiejaoude.io 
 - GitHub: https://github.com/eddiejaoude
