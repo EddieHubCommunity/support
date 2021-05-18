@@ -7,9 +7,9 @@ Don’t forget to support my channel by subscribing it! It’s free: https://www
 I have another youtube channel for short clips, please **take a moment subscribing it: https://www.youtube.com/eddiejaoudetv**
 
 ## Join Our Community
-Join our inclusive open source community EddieHub now for **free** at http://eddiehub.org
+Join our inclusive open source community EddieHub now for **free** at https://eddiehub.org
 
-Make sure to checkout my website and sign up to our community **newsletter**: http://eddiejaoude.io for my live stream + video schedule and community calls
+Make sure to checkout my website and sign up to our community **newsletter**: https://eddiejaoude.io for my live stream + video schedule and community calls
 
 Join Our **Community GitHub Organisation**:
 
@@ -22,7 +22,7 @@ Join Our **Community GitHub Organisation**:
 
 ## Big Thanks To Sponsors
 
-- Stephen Mount http://github.com/stemount
+- Stephen Mount https://github.com/stemount
 - Nicholas Carrigan https://github.com/nhcarrigan
 - Santosh Yadav https://github.com/santoshyadavdev
 - Andrew Cunliffe https://github.com/andrew-cunliffe
