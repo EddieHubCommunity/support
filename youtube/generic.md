@@ -34,13 +34,13 @@ Join Our **Community GitHub Organisation**:
 ## Social Media
 Follow on socials for behind the scenes footage and more.
 
-- Website: http://eddiejaoude.io 
+- Website: https://eddiejaoude.io 
 - GitHub: https://github.com/eddiejaoude
-- Youtube: http://youtube.com/eddiejaoude
-- Twitter: http://twitter.com/eddiejaoude
-- Instagram: http://instagram.com/eddiejaoude
-- Linkedin: http://linkedin.com/in/eddiejaoude
-- GitHub Community Org: http://github.com/EddieHubCommunity
+- Youtube: https://youtube.com/eddiejaoude
+- Twitter: https://twitter.com/eddiejaoude
+- Instagram: https://instagram.com/eddiejaoude
+- Linkedin: https://linkedin.com/in/eddiejaoude
+- GitHub Community Org: https://github.com/EddieHubCommunity
 
 ## Next
-Join Our Conversation At Discord: http://discord.eddiehub.org/
+Join Our Conversation At Discord: https://discord.eddiehub.org/
