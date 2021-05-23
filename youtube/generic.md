@@ -18,10 +18,9 @@ Join Our **Community GitHub Organisation**:
 - Open The Issue
 - You get an invitation to the community by our GitHub Action 🎉
 
----------------------------------------------------------------------------------------------------
+---
 
-## Big Thanks To Sponsors
-
+### GitHub Sponsors
 - Stephen Mount https://www.github.com/stemount
 - Nicholas Carrigan https://www.github.com/nhcarrigan
 - Santosh Yadav https://www.github.com/santoshyadavdev
@@ -29,7 +28,7 @@ Join Our **Community GitHub Organisation**:
 - Alexander Stoichkov https://www.github.com/SashoStoichkov
 - Allan Regush https://www.github.com/AllanRegush
 
----------------------------------------------------------------------------------------------------
+---
 
 ## Social Media
 Follow on socials for behind the scenes footage and more.
