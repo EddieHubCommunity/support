@@ -1,7 +1,7 @@
 You have submitted your open source projects, let's go through them together on a live stream!! If you have not submitted your open source project yet, you can create an issue here https://github.com/EddieHubCommunity/support/issues?q=is%3Aissue+is%3Aopen+label%3A%22live+stream+review%22
 
 I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe...
-https://www.youtube.com/eddiejaoudetv
+https://youtube.com/eddiejaoudetv
 
 JOIN our inclusive open source community now for FREE... https://www.eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
@@ -25,15 +25,15 @@ Nicholas Carrigan https://github.com/nhcarrigan
 ---------------------------------------------------------------------------------------------------
 
 Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
-https://www.youtube.com/eddiejaoude?sub_confirmation=1
+https://youtube.com/eddiejaoude?sub_confirmation=1
 
 Follow on other socials for behind the scenes footage, join discord to continue the conversation...
 
 https://www.eddiejaoude.io
-https://www.github.com/eddiejaoude
-https://www.youtube.com/eddiejaoude
-https://www.twitter.com/eddiejaoude
-https://www.instagram.com/eddiejaoude
-https://www.linkedin.com/in/eddiejaoude
+https://github.com/eddiejaoude
+https://youtube.com/eddiejaoude
+https://twitter.com/eddiejaoude
+https://instagram.com/eddiejaoude
+https://linkedin.com/in/eddiejaoude
 http://discord.eddiehub.org/
-http://www.github.com/EddieHubCommunity
+https://github.com/EddieHubCommunity
