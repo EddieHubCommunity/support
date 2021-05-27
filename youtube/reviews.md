@@ -1,19 +1,19 @@
-You have submitted your open source projects, let's go through them together on a live stream!! If you have not submitted your open source project yet, you can create an issue here https://github.com/EddieJaoudeCommunity/support/issues?q=is%3Aissue+is%3Aopen+label%3A%22open+source+review%22 
+You have submitted your open source projects, let's go through them together on a live stream!! If you have not submitted your open source project yet, you can create an issue here https://github.com/EddieHubCommunity/support/issues?q=is%3Aissue+is%3Aopen+label%3A%22live+stream+review%22
 
-I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe ... 
-https://www.youtube.com/eddiejaoudetv
+I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe...
+https://youtube.com/eddiejaoudetv
 
-JOIN our inclusive open source community now for FREE ... http://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... http://eddiejaoude.io for my live stream + video schedule and community calls
+JOIN our inclusive open source community now for FREE... https://www.eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
 Reviewing your Open Source projects #OpenSource #GitHub #DevRel
 
-Join our community GitHub organisation by creating an issue with the type "invite me to the organisation" :)
+Join our community GitHub organisation by creating an issue with the type "Invitation to the GitHub Community Organization" :)
 
 ---------------------------------------------------------------------------------------------------
 
 A BIG thank you to my GitHub Sponsors:
 ***
-Stephen Mount http://github.com/stemount
+Stephen Mount https://github.com/stemount
 Nicholas Carrigan https://github.com/nhcarrigan
 ***
 
@@ -25,15 +25,15 @@ Nicholas Carrigan https://github.com/nhcarrigan
 ---------------------------------------------------------------------------------------------------
 
 Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
-https://www.youtube.com/eddiejaoude?sub_confirmation=1
+https://youtube.com/eddiejaoude?sub_confirmation=1
 
 Follow on other socials for behind the scenes footage, join discord to continue the conversation...
 
-http://eddiejaoude.io 
+https://www.eddiejaoude.io
 https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.com/invite/jZQs6Wu
-http://github.com/EddieHubCommunity
+https://youtube.com/eddiejaoude
+https://twitter.com/eddiejaoude
+https://instagram.com/eddiejaoude
+https://linkedin.com/in/eddiejaoude
+http://discord.eddiehub.org/
+https://github.com/EddieHubCommunity
