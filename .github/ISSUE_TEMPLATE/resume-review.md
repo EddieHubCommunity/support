@@ -1,5 +1,5 @@
 ---
-name: resume-review
+name: Resume Review
 about: Please review my resume on a live stream
 title: '[REVIEW]'
 labels: 'resume review, live stream review'
