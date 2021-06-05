@@ -38,7 +38,7 @@ Follow on socials for behind the scenes footage and more.
 - Website: [eddiejaoude.io](https://www.eddiejaoude.io) 
 - GitHub: [github.com/eddiejoude](https://github.com/eddiejaoude)
 - YouTube: [youtube.com/eddiejoude](https://youtube.com/eddiejaoude)
-- Twitter: [twitter.com/eddiejaoude](https://twitter.com/eddiejaoude)
+- Twitter: https://twitter.com/eddiejaoude
 - Instagram: https://instagram.com/eddiejaoude
 - LinkedIn: [linkedin.com/in/eddiejaoude](https://linkedin.com/in/eddiejaoude)
 - GitHub Community Org: https://github.com/EddieHubCommunity
