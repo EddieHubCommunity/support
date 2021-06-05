@@ -10,7 +10,7 @@ Join our inclusive open source community EddieHub now for **free** at https://ww
  
 ---
 
-Make sure to checkout my website and sign up to our community **newsletter**: [eddiejaoude.io](https://www.eddiejaoude.io) for my live stream + video schedule and community calls
+Make sure to checkout my website and sign up to our community **newsletter**: https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
 Join Our **Community GitHub Organization**:
  
