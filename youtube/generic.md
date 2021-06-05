@@ -35,7 +35,7 @@ Join Our **Community GitHub Organization**:
 ## Social Media
 Follow on socials for behind the scenes footage and more.
 
-- Website: [eddiejaoude.io](https://www.eddiejaoude.io) 
+- Website: https://www.eddiejaoude.io 
 - GitHub: [github.com/eddiejoude](https://github.com/eddiejaoude)
 - YouTube: [youtube.com/eddiejoude](https://youtube.com/eddiejaoude)
 - Twitter: https://twitter.com/eddiejaoude
