@@ -44,4 +44,4 @@ Follow on socials for behind the scenes footage and more.
 - GitHub Community Org: https://github.com/EddieHubCommunity
 
 ## Further
-Join Our Conversation At Discord: [discord.eddiehub.org](https://discord.eddiehub.org/)
+Join Our Conversation At Discord: https://discord.eddiehub.org/
