@@ -3,7 +3,7 @@ Don’t forget to support my channel by subscribing it! It’s free: https://you
 **Make sure to tell your friends about it, so that they also learn something new!**
 
 ## YouTube Shorts
-I have another YouTube channel for short clips, please **take a moment subscribing it: [youtube.com/eddiejaoudetv](https://youtube.com/eddiejaoudetv?sub_confirmation=1)**
+I have another YouTube channel for short clips, please **take a moment subscribing it: https://youtube.com/eddiejaoudetv?sub_confirmation=1**
 
 ## Join Our Community
 Join our inclusive open source community EddieHub now for **free** at [eddiehub.org](https://www.eddiehub.org)
