@@ -23,7 +23,7 @@ Join Our **Community GitHub Organization**:
 ---
 
 ### GitHub Sponsors
-- Stephen Mount: [github.com/stemount](https://github.com/stemount)
+- Stephen Mount: https://github.com/stemount
 - Nicholas Carrigan: [github.com/nhcarrigan](https://github.com/nhcarrigan)
 - Santosh Yadav: [github.com/santoshyadavdev](https://github.com/santoshyadavdev)
 - Andrew Cunliffe: [github.com/andrew-cunliffe](https://github.com/andrew-cunliffe)
