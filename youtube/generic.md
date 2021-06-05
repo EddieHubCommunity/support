@@ -6,7 +6,7 @@ Don’t forget to support my channel by subscribing it! It’s free: https://you
 I have another YouTube channel for short clips, please **take a moment subscribing it: https://youtube.com/eddiejaoudetv?sub_confirmation=1**
 
 ## Join Our Community
-Join our inclusive open source community EddieHub now for **free** at [eddiehub.org](https://www.eddiehub.org)
+Join our inclusive open source community EddieHub now for **free** at https://www.eddiehub.org
  
 ---
 
