@@ -40,7 +40,7 @@ Follow on socials for behind the scenes footage and more.
 - Twitter: [twitter.com/eddiejaoude](https://twitter.com/eddiejaoude)
 - Instagram: https://instagram.com/eddiejaoude
 - LinkedIn: [linkedin.com/in/eddiejaoude](https://linkedin.com/in/eddiejaoude)
-- GitHub Community Org: [github.com/EddieHubCommunity](https://github.com/EddieHubCommunity)
+- GitHub Community Org: https://github.com/EddieHubCommunity
 
 ## Further
 Join Our Conversation At Discord: [discord.eddiehub.org](https://discord.eddiehub.org/)
