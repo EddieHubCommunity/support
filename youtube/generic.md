@@ -27,7 +27,7 @@ Join Our **Community GitHub Organization**:
 - Nicholas Carrigan: https://github.com/nhcarrigan
 - Santosh Yadav: https://github.com/santoshyadavdev
 - Andrew Cunliffe: https://github.com/andrew-cunliffe
-- Alexander Stoichkov: [github.com/SashoStoichkov](https://github.com/SashoStoichkov)
+- Alexander Stoichkov: https://github.com/SashoStoichkov
 - Allan Regush: https://github.com/AllanRegush
  
 ---
