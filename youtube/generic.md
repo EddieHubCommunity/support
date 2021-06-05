@@ -1,37 +1,46 @@
-...
+## YouTube Channel
+Don’t forget to support my channel by subscribing it! It’s free: [youtube.com/eddiejaoude](https://youtube.com/eddiejaoude?sub_confirmation=1)
+**Make sure to tell your friends about it, so that they also learn something new!**
 
-I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe ... 
-https://www.youtube.com/eddiejaoudetv
+## YouTube Shorts
+I have another YouTube channel for short clips, please **take a moment subscribing it: [youtube.com/eddiejaoudetv](https://youtube.com/eddiejaoudetv?sub_confirmation=1)**
 
-JOIN our inclusive open source community EddieHub now for FREE ... http://eddiehub.org, also checkout my website and sign up to our community NEWSLETTER... http://eddiejaoude.io for my live stream + video schedule and community calls
+## Join Our Community
+Join our inclusive open source community EddieHub now for **free** at [eddiehub.org](https://www.eddiehub.org)
+ 
+---
 
-Also join our community GitHub organisation by creating an issue with the type "invite me to the organisation" :)
+Make sure to checkout my website and sign up to our community **newsletter**: [eddiejaoude.io](https://www.eddiejaoude.io) for my live stream + video schedule and community calls
 
----------------------------------------------------------------------------------------------------
+Join Our **Community GitHub Organization**:
+ 
+- Go to [EddieHubCommunity/support/issues/new/choose](https://github.com/EddieHubCommunity/support/issues/new/choose) 
+- Choose The Issue Type Of **Invite Me To The Organization**
+- Open The Issue
+- You get an invitation to the community by our GitHub Action 🎉
 
-A BIG thank you to my GitHub Sponsors:
-***
-Stephen Mount http://github.com/stemount
-Nicholas Carrigan https://github.com/nhcarrigan
-***
+---
 
-- Santosh Yadav https://github.com/santoshyadavdev
-- Andrew Cunliffe https://github.com/andrew-cunliffe
-- Alexander Stoichkov https://github.com/SashoStoichkov
-- Allan Regush https://github.com/AllanRegush
+### GitHub Sponsors
+- Stephen Mount: [github.com/stemount](https://github.com/stemount)
+- Nicholas Carrigan: [github.com/nhcarrigan](https://github.com/nhcarrigan)
+- Santosh Yadav: [github.com/santoshyadavdev](https://github.com/santoshyadavdev)
+- Andrew Cunliffe: [github.com/andrew-cunliffe](https://github.com/andrew-cunliffe)
+- Alexander Stoichkov: [github.com/SashoStoichkov](https://github.com/SashoStoichkov)
+- Allan Regush: [github.com/AllanRegush](https://github.com/AllanRegush)
+ 
+---
+ 
+## Social Media
+Follow on socials for behind the scenes footage and more.
 
----------------------------------------------------------------------------------------------------
+- Website: [eddiejaoude.io](https://www.eddiejaoude.io) 
+- GitHub: [github.com/eddiejoude](https://github.com/eddiejaoude)
+- YouTube: [youtube.com/eddiejoude](https://youtube.com/eddiejaoude)
+- Twitter: [twitter.com/eddiejaoude](https://twitter.com/eddiejaoude)
+- Instagram: [instagram.com/eddiejaoude](https://instagram.com/eddiejaoude)
+- LinkedIn: [linkedin.com/in/eddiejaoude](https://linkedin.com/in/eddiejaoude)
+- GitHub Community Org: [github.com/EddieHubCommunity](https://github.com/EddieHubCommunity)
 
-Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
-https://www.youtube.com/eddiejaoude?sub_confirmation=1
-
-Follow on other socials for behind the scenes footage, join discord to continue the conversation...
-
-http://eddiejaoude.io 
-https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.com/invite/jZQs6Wu
-http://github.com/EddieHubCommunity
+## Further
+Join Our Conversation At Discord: [discord.eddiehub.org](https://discord.eddiehub.org/)
