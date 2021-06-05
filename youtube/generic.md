@@ -28,7 +28,7 @@ Join Our **Community GitHub Organization**:
 - Santosh Yadav: https://github.com/santoshyadavdev
 - Andrew Cunliffe: https://github.com/andrew-cunliffe
 - Alexander Stoichkov: [github.com/SashoStoichkov](https://github.com/SashoStoichkov)
-- Allan Regush: [github.com/AllanRegush](https://github.com/AllanRegush)
+- Allan Regush: https://github.com/AllanRegush
  
 ---
  
