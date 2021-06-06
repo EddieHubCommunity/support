@@ -16,7 +16,7 @@ Join Our **Community GitHub Organization**:
  
 \- Go to https://github.com/EddieHubCommunity/support/issues/new/choose
 \- Choose The Issue Type Of **Invite Me To The Organization**
-- Choose The Issue Type Of **Invite Me To The Organization**
+\- Choose The Issue Type Of **Invite Me To The Organization**
 - Open The Issue
 - You get an invitation to the community by our GitHub Action 🎉
 
