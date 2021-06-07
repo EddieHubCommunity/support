@@ -8,7 +8,7 @@ Raise an [issue to join the EddieHub GitHub organisation](https://github.com/Edd
 
 Imagine the scenario where you are helping a stranger, a friend, or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported or a Node.js article that isn't supported in Node v14. That sort of thing...
 
-You volunteer to help that person and pair on it. You fix it and that makes them super happy.
+You volunteer to help that person and pair on it. You fix it and they get super happy.
 
 The unfortunate thing about this is that it lacks a write-up on what was used. It's important to know the articles that were used for reference purpose. This is where a GitHub issue queue comes in. That way, folks could Google for somebody with the same problem!
 
