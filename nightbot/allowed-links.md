@@ -20,4 +20,6 @@ repl.it
 codepen.io
 git.io
 b.tech
+eddiejaoude.io
+eddiehub.org
 ```
