@@ -6,7 +6,7 @@ Raise an [issue to join the EddieHub GitHub organisation](https://github.com/Edd
 
 ### Some vague idea of how we could turn this into a support channel.
 
-Imagine the scenario where you are helping a stranger, a friend or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported or a Node.js article that isn't supported in Node v14. That sort of thing...
+Imagine the scenario where you are helping a stranger, a friend, or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported or a Node.js article that isn't supported in Node v14. That sort of thing...
 
 You volunteer to help that person and pair on it. You fix it and that makes them super happy.
 
