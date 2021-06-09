@@ -1,5 +1,8 @@
 ...
 
+
+## LEARN MORE
+
 I now have a 2nd YouTube channel for short video clips of 60s or less, subscribe ... 
 https://www.youtube.com/eddiejaoudetv
 
@@ -7,7 +10,15 @@ JOIN our inclusive open source community EddieHub now for FREE ... http://eddieh
 
 Also join our community GitHub organisation by creating an issue with the type "invite me to the organisation" :)
 
----------------------------------------------------------------------------------------------------
+## SERVICES I USE AND RECOMMEND
+
+Some of these might be affiliate links, no extra cost you to, but I get a little $ if you sign up
+
+- Cloud hosting with Digital Ocean, you will get $100 FREE credit http://links.eddiejaoude.io/t/EAaCRWhsnZlF
+- NoSQL serverless database with DataStax, you will get $25 FREE credit every month http://links.eddiejaoude.io/t/QHnSYwBA8Va4
+- Membership, Newsletters, CRM all in one with Kartra http://links.eddiejaoude.io/t/pQ5W3FRLk8Cp
+
+## COMMUNITY SPONSORS
 
 A BIG thank you to my GitHub Sponsors:
 ***
@@ -20,7 +31,7 @@ Nicholas Carrigan https://github.com/nhcarrigan
 - Alexander Stoichkov https://github.com/SashoStoichkov
 - Allan Regush https://github.com/AllanRegush
 
----------------------------------------------------------------------------------------------------
+## FIND ME ON OTHER SOCIAL PLATFORMS
 
 Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
 https://www.youtube.com/eddiejaoude?sub_confirmation=1
