@@ -54,7 +54,7 @@ DAILY:
 
 -> #standup: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
 
--> #achievements: share your achievements with the community
+-> #achievements: share your (personal) achievements with the community
 
 COMMUNITY DISCUSSION:
 
@@ -115,4 +115,3 @@ Tips to help you ask questions that will give you a better chance to get the bes
     To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
 
     To assign a role, use `becca!role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `becca!role angular`.
-
