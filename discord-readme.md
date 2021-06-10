@@ -2,9 +2,9 @@
 
 We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
-We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers and #good-first-issues , if you get stuck somewhere feel free to ask help in the community, you'll find someone who can help you for sure and others will learn along too!
+We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers and #good-first-issues , if you get stuck somewhere feel free to ask for help in the community, you'll find someone who can help you for sure and others will learn along too!
 
-**Please try to adhere by our Code Of Coduct(COC):**
+**Please try to adhere by our Code Of Conduct(COC):**
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -27,9 +27,9 @@ The following are the guidelines regarding chat on the discord server:
 
 Instances of abusive, harassing or otherwise, unacceptable behaviour may be reported by contacting the @moderators . All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
-EddieBotDev (or EddieBot), would be monitoring language used on the discord server, to ensure inclusive and welcoming language in the discord server. EddieBot suggests alternatives and it would be a good practice to edit your message, reflecting the suggestion
+EddieBotDev (or EddieBot), would be monitoring language used on the discord server, to ensure the inclusive and welcoming language in the discord server. EddieBot suggests alternatives and it would be a good practice to edit your message, reflecting the suggestion
 
-NOTE: EddieBot is still in development, and there might be a few words flagged by it which should not have been flagged. Open an issue on the repo and get a green square!
+NOTE: EddieBot is still in development, and there might be a few words flagged by it that should not have been flagged. Open an issue on the repo and get a green square!
 
 **Information Regarding Channels:**
 
@@ -47,14 +47,14 @@ GENERAL DISCUSSION:
 
 -> #content-share: share web content
 
--> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot, or use the other bot commands.
+-> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
 DAILY:
 
 -> #healthfitness: share your tips on health and fitness so we can be healthy together.
 
--> #standup: everyday of code, give us your standup updates! What you did yesterday,what you plan to do today and any blockers?
+-> #standup: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
 
--> #achievements: share your personal achievements with the community
+-> #achievements: share your (personal) achievements with the community
 
 COMMUNITY DISCUSSION:
 
@@ -67,7 +67,7 @@ COMMUNITY DISCUSSION:
 
 -> #mlh: Major League Hacking -> see more at https://mlh.io/
 
--> #opensource: discussing interesting open source news and information, that may or may not be related to EddieHubCommunity
+-> #opensource: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
 
 -> #battle-stations: here you can share your workstation or workspace
 
@@ -93,12 +93,12 @@ You can raise an issue or a Pull request here -https://github.com/EddieHubCommun
 https://github.com/EddieHubCommunity/support/issues/new/choose
 
 **How to ask for help**
-Tips to help you ask questions which will give you a better chance to get the best answers from everyone.
+Tips to help you ask questions that will give you a better chance to get the best answers from everyone.
 
 1. **Read through your code first.** Your problem could be as simple as a typo or a missing closing tag.
 2. **Ask Google.** Many code problems can be solved with a quick Google, so give this a try first. If that doesn't help, head back here to ask your question, and follow the tips below.
 3. **Clearly describe the problem.** Explain what is happening and what you want to happen.
-4. **Share your code.** It’s very unlikely that anyone will be able to solve your problem without seeing your code. Share a GitHub repository, a GitHub gist link or format the code by wrapping it in backticks, like the example below.
+4. **Share your code.** It’s very unlikely that anyone will be able to solve your problem without seeing your code. Share a GitHub repository, a GitHub gist link, or format the code by wrapping it in backticks, like the example below.
 
    ```
      //Your code goes here
@@ -115,4 +115,3 @@ Tips to help you ask questions which will give you a better chance to get the be
     To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
 
     To assign a role, use `becca!role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `becca!role angular`.
-
