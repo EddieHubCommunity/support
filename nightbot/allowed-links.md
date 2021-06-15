@@ -5,8 +5,6 @@ These links are on Nightbots allowed list
 ```
 github.com
 ~/[\s]*\.github\.com/i
-youtube.com
-youtu.be
 gist.github.com
 lab.github.com
 stars.github.com
