@@ -31,14 +31,6 @@ Some of these might be affiliate links, no extra cost you to, but I get a little
 - NoSQL serverless database with DataStax, you will get $25 FREE credit every month http://links.eddiejaoude.io/t/bBM0STvCi2a4
 - Membership, Newsletters, CRM all in one with Kartra http://links.eddiejaoude.io/t/pQ5W3FRLk8Cp
 
-## COMMUNITY SPONSORS
-- Stephen Mount: https://github.com/stemount
-- Nicholas Carrigan: https://github.com/nhcarrigan
-- Santosh Yadav: https://github.com/santoshyadavdev
-- Andrew Cunliffe: https://github.com/andrew-cunliffe
-- Alexander Stoichkov: https://github.com/SashoStoichkov
-- Allan Regush: https://github.com/AllanRegush
- 
 ---
  
 ## Find me on Social Media
@@ -54,3 +46,14 @@ Follow on socials for behind the scenes footage and more.
 
 ## Further
 Join Our Conversation At Discord: http://discord.eddiehub.org/
+
+A BIG thank you to my GitHub Sponsors:
+***
+Stephen Mount http://github.com/stemount
+Nicholas Carrigan https://github.com/nhcarrigan
+***
+
+- Santosh Yadav https://github.com/santoshyadavdev
+- Andrew Cunliffe https://github.com/andrew-cunliffe
+- Alexander Stoichkov https://github.com/SashoStoichkov
+- Allan Regush https://github.com/AllanRegush
