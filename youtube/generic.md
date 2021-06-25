@@ -17,11 +17,9 @@ Join our inclusive open source community EddieHub now for FREE at https://www.ed
 
 2. Choose The Issue Type Of Invite Me To The Organization
 
-3. Choose The Issue Type Of Invite Me To The Organization
+3. Open The Issue
 
-4. Open The Issue
-
-5. You get an invitation to the community by our GitHub Action 🎉
+4. You get an invitation to the community by our GitHub Action 🎉
 
 ---
 
