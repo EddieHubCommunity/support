@@ -18,6 +18,7 @@ Some of these might be affiliate links, no extra cost you to, but I get a little
 - Live streaming with Streamyard http://links.eddiejaoude.io/t/pYlzGjcta1a4
 - Cloud hosting with Digital Ocean, you will get $100 FREE credit http://links.eddiejaoude.io/t/EAaCRWhsnZlF
 - Membership, Newsletters, CRM all in one with Kartra http://links.eddiejaoude.io/t/pQ5W3FRLk8Cp
+- Awesome backup platform, BackBlaze http://links.eddiejaoude.io/t/4rqTZjLbwmCp
 
 ## COMMUNITY SPONSORS
 
