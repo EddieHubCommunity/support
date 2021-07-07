@@ -51,7 +51,7 @@ Some of these might be affiliate links, no extra cost to you, but I get a little
 
 ---
  
-## Find me on social media
+## Find me on socials
 
 Website: https://www.eddiejaoude.io 
 
