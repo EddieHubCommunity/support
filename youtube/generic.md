@@ -1,7 +1,7 @@
 ## YouTube Channel
 Don’t forget to support my channel by subscribing it! It’s free: https://youtube.com/eddiejaoude?sub_confirmation=1
 
-MAKE SURE TO TELL YOUR FRIENDS ABOUT IT, SO THAT THEY ALSO LEARN SOMETHING NEW!
+MAKE SURE TO TELL YOUR FRIENDS ABOUT IT, SO THAT THEY CAN ALSO LEARN SOMETHING NEW!
 
 ## YouTube Shorts
 I have another YouTube channel for short clips, please TAKE A MOMENT SUBSCRIBING IT: https://youtube.com/eddiejaoudetv?sub_confirmation=1
