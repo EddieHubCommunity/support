@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization).
+Raise an [issue to join the EddieHub GitHub organisation](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
 
 ### Some vague idea of how we could turn this into a support channel.
 
