@@ -4,7 +4,7 @@ Don’t forget to support my channel by subscribing it! It’s free: https://you
 MAKE SURE TO TELL YOUR FRIENDS ABOUT IT, SO THAT THEY CAN ALSO LEARN SOMETHING NEW!
 
 ## YouTube Shorts
-I have another YouTube channel for short clips, please TAKE A MOMENT SUBSCRIBING IT: https://youtube.com/eddiejaoudetv?sub_confirmation=1
+I have another YouTube channel for short clips, please take a moment subscribing to it: https://youtube.com/eddiejaoudetv?sub_confirmation=1
 
 ## Newsletter
 
