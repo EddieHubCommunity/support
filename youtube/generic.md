@@ -65,7 +65,7 @@ Instagram: https://instagram.com/eddiejaoude
 
 LinkedIn: https://linkedin.com/in/eddiejaoude
 
-GitHub Community Org: https://github.com/EddieHubCommunity
+GitHub Community Organization link: https://github.com/EddieHubCommunity
 
 ## Further
 Join the Conversation at Discord: http://discord.eddiehub.org/
