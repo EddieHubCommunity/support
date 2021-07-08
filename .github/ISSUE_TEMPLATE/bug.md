@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Create a bug-report to help us address errors in the repo.
+about: Create a bug report to help us address errors in the repository.
 title: ''
 labels: bug
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 **Description**
 
-<!--A clear and concise description of what the bug is.-->
+<!-- A clear and concise description of what the bug is. -->
 
 **Stack**
 
@@ -25,12 +25,12 @@ Device (eg. Laptop or Phone):
 
 **Screenshots**
 
-Please add a screenshot if applicable
+<!-- Please add a screenshot if applicable -->
 
 [Optional] **Additional Context**
 
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
 
-You can also join the discord community [here](http://discord.eddiehub.org)
+You can also join the Discord community [here](http://discord.eddiehub.org)
 
 Feel free to check out other cool repositories of EddieHub Community [here](https://github.com/EddieHubCommunity)

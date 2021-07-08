@@ -9,6 +9,6 @@ assignees: ''
 **Project Link:**
 <!-- your project repository link goes here. -->
 
-You can also join the discord community [here](http://discord.eddiehub.org)
+You can also join the Discord community [here](http://discord.eddiehub.org)
 
 Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
