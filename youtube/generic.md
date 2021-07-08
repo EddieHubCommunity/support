@@ -1,5 +1,5 @@
 ## YouTube Channel
-Don’t forget to support my channel by subscribing it! It’s free: https://youtube.com/eddiejaoude?sub_confirmation=1
+Don't forget to support my channel by subscribing to it! It’s free: https://youtube.com/eddiejaoude?sub_confirmation=1
 
 MAKE SURE TO TELL YOUR FRIENDS ABOUT IT, SO THAT THEY CAN ALSO LEARN SOMETHING NEW!
 
