@@ -39,7 +39,7 @@ Allan Regush https://github.com/AllanRegush
 
 ---
 
-## Service I Use and Recommend
+## Services I use and recommend
 
 Some of these might be an affiliate links, no extra cost to you, but I get a little $ if you sign up, plus you might get a discount, too.
 
