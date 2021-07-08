@@ -60,7 +60,6 @@ GitHub: https://github.com/eddiejaoude
 YouTube: https://youtube.com/eddiejaoude
 
 Twitter: https://twitter.com/eddiejaoude
-
 Instagram: https://instagram.com/eddiejaoude
 
 LinkedIn: https://linkedin.com/in/eddiejaoude
