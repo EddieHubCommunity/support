@@ -12,6 +12,7 @@ I have another YouTube channel for short clips, please take a moment subscribing
 Make sure to checkout my website and sign up to our community NEWSLETTER: https://www.eddiejaoude.io for my live stream + video schedule and community calls
 
 ## Join Our Community
+
 Join our inclusive open source community EddieHub now for FREE at https://www.eddiehub.org
  
 1. Go to https://github.com/EddieHubCommunity/support/issues/new/choose
