@@ -69,5 +69,5 @@ LinkedIn: https://linkedin.com/in/eddiejaoude
 
 GitHub Community Organization link: https://github.com/EddieHubCommunity
 
-## Further
+## Meet our Community
 Join the Conversation at Discord: http://discord.eddiehub.org/
