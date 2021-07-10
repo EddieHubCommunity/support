@@ -1,0 +1,31 @@
+name: Invitation to the GitHub Community Organization
+description: I would like to be part of the awesome community
+title: "Please invite me to the GitHub Community Organization"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Insert your name here
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username(if exists)
+      placeholder: Insert your discord username here
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Additional Context
+      description: Where did you meet Eddie? What do you like about this community/ why do you want to join?
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        You can also join the Discord community [here](http://discord.eddiehub.org)
+        Feel free to check out other cool repositories of EddieHub Community [here](https://github.com/EddieHubCommunity)

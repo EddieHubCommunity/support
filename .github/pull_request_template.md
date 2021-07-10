@@ -1,15 +1,16 @@
+<!-- If applicable, reference the issue number that this PR closes -->
 closes #ISSUE-NO
 
 #### What does this PR do?
 
-#### Description of Task to be completed?
+#### Description of the task to be completed?
 
 #### How can this be manually tested?
 
 #### Any background context you want to provide?
 
-#### What is the relevant issue link?
+#### Is there any relevant issue to this PR?
 
 #### Screenshots (if appropriate)
 
-#### Questions:
+#### Questions
