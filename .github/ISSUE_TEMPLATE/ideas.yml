@@ -9,7 +9,7 @@ body:
       label: Description of feature request, idea
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: screenshots
     attributes:
       label: Add (multiple) screenshot links (if applicable)
