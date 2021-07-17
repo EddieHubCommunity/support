@@ -13,15 +13,15 @@ body:
   - type: input
     id: discordname
     attributes:
-      label: Discord Username(if exists)
-      placeholder: Insert your discord username here
+      label: Discord Username (if applicable)
+      placeholder: Insert your Discord username here
     validations:
       required: false
   - type: textarea
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Eddie? What do you like about this community/ why do you want to join?
+      description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
     validations:
       required: false
   - type: markdown

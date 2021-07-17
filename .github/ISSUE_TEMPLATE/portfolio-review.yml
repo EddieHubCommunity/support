@@ -1,13 +1,15 @@
-name: GitHub Profile Review
-description: Please review my GitHub profile on a livestream
-title: "[REVIEW] <your-username>"
-labels: [gh profile review, live stream review]
+name: Portfolio Review
+description: Please review my Portfolio on a livestream
+title: "[REVIEW]"
+labels: [portfolio review, live stream review]
 body:
+  - type: markdown
+    attributes:
+      value: Please ensure that you don't have any personal details in your Portfolio that you don't want to share publicly.
   - type: input
     id: link
     attributes:
-      label: GitHub Profile Link
-      placeholder: https://github.com/<your-username>
+      label: Portfolio link
     validations:
       required: true
   - type: markdown
