@@ -1,13 +1,15 @@
-name: GitHub Profile Review
-description: Please review my GitHub profile on a livestream
-title: "[REVIEW] <your-username>"
-labels: [gh profile review, live stream review]
+name: Resume Review
+description: Please review my resume on a live stream
+title: "[REVIEW]"
+labels: [resume review, live stream review]
 body:
+  - type: markdown
+    attributes:
+      value: Remove all personal data, otherwise, the resume will be deleted
   - type: input
     id: link
     attributes:
-      label: GitHub Profile Link
-      placeholder: https://github.com/<your-username>
+      label: Resume link
     validations:
       required: true
   - type: markdown
