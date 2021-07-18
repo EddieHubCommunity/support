@@ -22,18 +22,18 @@ If we could find a really good name for this, we could have a `"support"` repo i
 
 We could then have folks to have their own "support" repository and be able to PR in their contributions!
 
-Please check out the [issue queue](https://github.com/EddieJaoudeCommunity/support/issues) for sticking issues with this and we can all pair on this.
+Please check out the [issue queue](https://github.com/EddieHubCommunity/support/issues) for sticking issues with this and we can all pair on this.
 
 ---
  ## Guide
 
-   - Actions go under [issues](https://github.com/EddieJaoudeCommunity/support/issues)
+   - Actions go under [issues](https://github.com/EddieHubCommunity/support/issues)
    
       - Bugs
       
       - Add me to the organization 
       
-   - Miscellaneous go under [Discussions](https://github.com/EddieJaoudeCommunity/support/discussions)
+   - Miscellaneous go under [Discussions](https://github.com/EddieHubCommunity/support/discussions)
    
      - Questions
      
@@ -64,13 +64,13 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 	
 	
-- **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/94).
-- **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieJaoudeCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
-- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can ask questions in our Discord. We have a channel for `first-timers` and `opensource`.
+- **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
+- **What is DevRel?** Check out the discussion on [this issue](https://github.com/EddieHubCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
+- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/EddieHubCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can ask questions in our Discord. We have a channel for `first-timers` and `opensource`.
 
   Here is a list of resources that also might help you start contributing to open source:
-  - [How to get started in hackathons](https://github.com/EddieJaoudeCommunity/support/issues/32)
-  - [Open source tips from EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot/tree/develop/tips)
+  - [How to get started in hackathons](https://github.com/EddieHubCommunity/support/issues/32)
+  - [Open source tips from EddieBot](https://github.com/EddieHubCommunity/EddieBot/tree/develop/tips)
 - **How to look for an open-source project to contribute?** Check [Finding Open Source Projects](./tips/finding-open-source-projects.md)
 
 ## Socials
