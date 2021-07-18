@@ -21,7 +21,7 @@ body:
       label: Working Environment (e.g. operating system, browser, device)
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: screenshots
     attributes:
       label: Please add screenshots (if applicable)
