@@ -28,5 +28,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - uses: EddieHubCommunity/gh-action-community/src/statistics@main
+        if: ${{ github.repository_owner == 'EddieHubCommunity' }}
         with:
           firebase-key: ${{ secrets.FIREBASE_KEY }}
