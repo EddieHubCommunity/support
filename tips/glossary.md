@@ -16,4 +16,4 @@ window.addEventListener("click", function () {
 
 ### Additional Resources
 
-https://en.wikipedia.org/wiki/Anonymous_function
+[Anonymous Function](https://en.wikipedia.org/wiki/Anonymous_function)

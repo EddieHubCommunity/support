@@ -1,4 +1,4 @@
-# `git` Related Tips
+# Git-related tips
 
 This file contains various tips and tricks for using the `git` CLI (and GitHub too!)
 
@@ -8,7 +8,7 @@ Some helpful `git` and GitHub related terms.
 
 | Name | Abbreviation | Description |
 | :--- | :--- | :--- |
-| `repository` | **repo** | A repository is like a folder that holds a project's files, but unlike other folders a repository is tracked for changes by `git` |
+| `repository` | **repo** | A repository is like a folder that holds a project's files, but unlike other folders, a repository is tracked for changes by `git` |
 | `commit` | - | A commit holds the specific changes to files that were made since the last `commit` |
 | `pull request` | **PR** | Short for "Pull Request", this is a request to merge the changes made on one repository or branch into another repository or branch |
 | `branch` | - | A branch is like a new workspace for the same project, allowing you to work on changes, commit them, and push them to a repository without affecting the original branch |
@@ -51,4 +51,4 @@ A maintainer might have a contributing requirement that PRs have only one commit
 - Step two: Using `git`'s interactive rebasing feature, we are going to rebase against your current default branch with `git rebase -i origin/<branchname>` (the branch name is most likely `main`).
 - Step three: Using the file that opens in your editor, set the commit at the *top* of the list to `pick` and the rest of the commits to `squash`. Save and close the file.
 - Step four: Force your remote branch to accept this new commit history with `git push -f`.
-- Step five: Celebrate your success!
+- Step five: Celebrate your success! 🎉
