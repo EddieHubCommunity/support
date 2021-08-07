@@ -23,7 +23,7 @@ body:
       label: Additional Context
       description: Where did you meet Eddie? What do you like about this community/Why do you want to join?
     validations:
-      required: false
+      required: true
   - type: markdown
     attributes:
       value: |
