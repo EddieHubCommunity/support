@@ -35,13 +35,13 @@ FIND ME ON OTHER SOCIAL PLATFORMS
 Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!
 https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
-Follow on other socials for behind the scenes footage. Join the Discord server to continue the conversation.
+Follow on other socials for behind the scenes footage and join the Discord server to continue the conversation.
 
-http://eddiejaoude.io 
+https://www.eddiejaoude.io/
 https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.eddiehub.org/
-http://github.com/EddieHubCommunity
+https://youtube.com/eddiejaoude
+https://twitter.com/eddiejaoude
+https://instagram.com/eddiejaoude
+https://linkedin.com/in/eddiejaoude
+http://discord.eddiehub.org/
+https://github.com/EddieHubCommunity
