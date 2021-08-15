@@ -36,12 +36,11 @@ Don’t forget to support my channel by subscribing below, it’s free, and also
 https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
 Follow on other socials for behind the scenes footage, join discord to continue the conversation...
+[<center> <img src="https://img.shields.io/badge/eddie jaoude-%ff77ff.svg?&style=for-the-badge&logo=Portfolio&logoColor=white" />](http://eddiejaoude.io/) <img src = "https://kartrausers.s3.amazonaws.com/eddiejaoude/17368350_60356e7b6046f_Chibi_copy.png"/> </cneter>
 
-http://eddiejaoude.io 
-https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.com/invite/jZQs6Wu
-http://github.com/EddieHubCommunity
+[<img src="https://img.shields.io/badge/eddie jaoude-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eddiejaoude)
+[<img src = "https://img.shields.io/badge/eddiejaoude-%1e1c0d.svg?&style=for-the-badge&logo=github&logoColor=white&color=1e1c0d">](https://github.com/eddiejaoude) [<img src = "https://img.shields.io/badge/eddiejaoude-%c8241b.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=c8241b">](http://youtube.com/eddiejaoude)
+[<img src = "https://img.shields.io/badge/eddiejaoude-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/eddiejaoude)
+[<img src = "https://img.shields.io/badge/eddiejaoude-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/eddiejaoude/) [<img src = "https://img.shields.io/badge/eddie jaoude-Community-%181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=862d23">](http://github.com/EddieHubCommunity)
+
+[<center><img src = "https://img.shields.io/badge/eddie jaoude-discord Invite-%181717.svg?&style=for-the-badge&logo=discord&logoColor=white&color=4b6375">](https://discord.com/invite/jZQs6Wu) </center>
