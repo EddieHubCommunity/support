@@ -7,7 +7,7 @@ JOIN our inclusive open source community now for FREE... https://www.eddiehub.or
 
 Reviewing your Open Source projects #OpenSource #GitHub #DevRel
 
-## SERVICES I USE AND RECOMMEND
+SERVICES I USE AND RECOMMEND
 
 Some of these might be affiliate links, no extra cost you to, but I get a little $ if you sign up, plus you might get a discount too
 
@@ -17,7 +17,7 @@ Some of these might be affiliate links, no extra cost you to, but I get a little
 - Membership, Newsletters, CRM all in one with Kartra http://links.eddiejaoude.io/t/pQ5W3FRLk8Cp
 - Awesome backup platform, BackBlaze http://links.eddiejaoude.io/t/4rqTZjLbwmCp
 
-## COMMUNITY SPONSORS
+COMMUNITY SPONSORS
 
 A BIG thank you to my GitHub Sponsors:
 ***
@@ -30,18 +30,18 @@ Nicholas Carrigan https://github.com/nhcarrigan
 - Alexander Stoichkov https://github.com/SashoStoichkov
 - Allan Regush https://github.com/AllanRegush
 
-## FIND ME ON OTHER SOCIAL PLATFORMS
+FIND ME ON OTHER SOCIAL PLATFORMS
 
-Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!!
+Don’t forget to support my channel by subscribing below, it’s free, and also share with your friends. Subscribe now!
 https://www.youtube.com/eddiejaoude?sub_confirmation=1
 
-Follow on other socials for behind the scenes footage, join discord to continue the conversation...
+Follow on other socials for behind the scenes footage and join the Discord server to continue the conversation.
 
-http://eddiejaoude.io 
+https://www.eddiejaoude.io/
 https://github.com/eddiejaoude
-http://youtube.com/eddiejaoude
-http://twitter.com/eddiejaoude
-http://instagram.com/eddiejaoude
-http://linkedin.com/in/eddiejaoude
-https://discord.com/invite/jZQs6Wu
-http://github.com/EddieHubCommunity
+https://youtube.com/eddiejaoude
+https://twitter.com/eddiejaoude
+https://instagram.com/eddiejaoude
+https://linkedin.com/in/eddiejaoude
+http://discord.eddiehub.org/
+https://github.com/EddieHubCommunity
