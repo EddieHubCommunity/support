@@ -39,8 +39,6 @@ GENERAL DISCUSSION:
 
 -> #general: main text chat
 
--> #introductions: give yourself an introduction, and familiarising with the community
-
 -> #help: ask for help or provide help to the members of the community
 
 -> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd:
