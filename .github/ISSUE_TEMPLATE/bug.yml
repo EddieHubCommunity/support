@@ -3,7 +3,7 @@ description: Create a bug report to help us address errors in the repository
 title: "[BUG] <bug description>"
 labels: [bug]
 body:
-  - type: input
+  - type: textarea
     id: bugdescription
     attributes:
       label: Description of the bug
@@ -15,7 +15,7 @@ body:
       label: Project stack or language (e.g. front-end)
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: workingenvironment
     attributes:
       label: Working Environment (e.g. operating system, browser, device)
@@ -27,7 +27,7 @@ body:
       label: Please add screenshots (if applicable)
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: context
     attributes:
       label: Add any other context about the problem here
