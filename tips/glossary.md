@@ -39,4 +39,4 @@ when using git checkout
 
 [Anonymous Function](https://en.wikipedia.org/wiki/Anonymous_function)
 
-[Frequently Used Terms Definitions](services@github.com)
+[Frequently Used Terms Definitions](https://docs.github.com/en/get-started/quickstart/github-glossary)
