@@ -35,53 +35,53 @@ EddieBotDev (or EddieBot), would be monitoring language used on the Discord serv
 
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic
 
-GENERAL DISCUSSION:
+**GENERAL DISCUSSION:**
 
--> #general: main text chat
+-> **#general**: main text chat
 
--> #help: ask for help or provide help to the members of the community
+-> **#help**: ask for help or provide help to the members of the community
 
--> #ideas: got an idea / suggestion for the community? We love hearing new ideas :nerd:
+-> **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
--> #content-share: share web content
+-> **#content-share**: share web content
 
--> #bot-chat: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
+-> **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
 DAILY:
 
--> #healthfitness: share your tips on health and fitness so we can be healthy together.
+-> **#healthfitness:** share your tips on health and fitness so we can be healthy together.
 
--> #standup: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
+-> **#standup**: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
 
--> #achievements: share your (personal) achievements with the community
+-> **#achievements**: share your (personal) achievements with the community
 
 COMMUNITY DISCUSSION:
 
--> #organisation: our community's GitHub org
+-> **#organisation**: our community's GitHub org
 
--> #good-first-issues: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+-> **#good-first-issues**: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
--> #first-timers: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
--> #hackathons: the prime area to get notified about upcoming hackathons, and discussing about them
+-> **#first-timers**: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
+-> **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
 
--> #mlh: Major League Hacking -> see more at https://mlh.io/
+-> **#mlh**: Major League Hacking -> see more at https://mlh.io/
 
--> #opensource: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
+-> **#opensource**: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
 
--> #battle-stations: here you can share your workstation or workspace
+-> **#battle-stations**: here you can share your workstation or workspace
 
--> #public-speaking: improve your soft skills, public speaking, and build communities
+-> **#public-speaking**: improve your soft skills, public speaking, and build communities
 
 TECH: Channels regarding specific areas
 
--> #ux-ui, #frontend, #backend, #linux, #devops, #git, #ml-ai, #databases, #tech-other
+-> **#ux-ui**, **#frontend**, **#backend**, **#linux**, **#devops**, **#git**, **#ml-ai**, **#databases**, **#tech-other**
 
 ALERTS:
 
--> #youtube: Channel for live stream updates of Eddie's youtube channel
+-> **#youtube**: Channel for live stream updates of Eddie's youtube channel
 
--> #bot-logs: Logs of EddieBotDev
+-> **#bot-logs**: Logs of EddieBotDev
 
--> #github: Updates from the GitHub community
+-> **#github**: Updates from the GitHub community
 
 You can raise an issue or a Pull request here -https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md if you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
 
