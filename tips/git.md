@@ -15,6 +15,7 @@ Some helpful `git` and GitHub related terms.
 | `fork` | - | A forked repository is a "copy" of a repository that has references to the original. GitHub will track differences between a fork and a source for you, and show the number of different commits |
 | `clone` | - | Cloning a repository is the process of bringing the files and configuration from the online/external location to your local machine |
 | `remote` | - | A remote repository is a repository stored outside your local computer (so, on GitHub or GitLab for example) |
+| `stash` | - | Save the uncommitted work locally |
 
 ## Rebasing a Fork
 
