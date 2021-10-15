@@ -37,7 +37,7 @@ when using git checkout
 
 **push**: to send committed changes to a remote repository
 
-**upstream**: of a branch or a fork, the primary branch on the original repository is referred to as the "upstream"
+**upstream**: of a branch or a fork, the primary branch on the original repository is referred as "upstream"
 
 ### Additional Resources
 
