@@ -14,7 +14,7 @@ window.addEventListener("click", function () {
 });
 ```
 
-### Frequently Used Terms Definitions 
+### Frequently Used Terms Definitions
 **git**: an open source, distributed version-control system
 
 **GitHub**: a platform for hosting and collaborating on Git repositories
@@ -34,6 +34,10 @@ tests, and more
 
 **HEAD**: representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits
 when using git checkout
+
+**push**: to send committed changes to a remote repository
+
+**upstream**: of a branch or a fork, the primary branch on the original repository is referred to as the "upstream"
 
 ### Additional Resources
 
