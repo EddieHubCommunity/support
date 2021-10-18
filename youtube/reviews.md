@@ -9,7 +9,7 @@ Reviewing your Open Source projects #OpenSource #GitHub #DevRel
 
 SERVICES I USE AND RECOMMEND
 
-Some of these might be affiliate links, at no extra cost to you, but I get a little $ if you sign up, plus you might get a discount too
+Some of these might be affiliate links, no extra cost to you, but I get a little $ if you sign up, plus you might get a discount too.
 
 - NoSQL serverless database with DataStax, you will get $25 FREE credit every month http://links.eddiejaoude.io/t/bBM0STvCi2a4
 - Live streaming with Streamyard http://links.eddiejaoude.io/t/pYlzGjcta1a4
