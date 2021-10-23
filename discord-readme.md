@@ -41,8 +41,6 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 -> **#help**: ask for help or provide help to the members of the community
 
--> **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
-
 -> **#content-share**: share web content
 
 -> **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
@@ -56,24 +54,20 @@ DAILY:
 
 COMMUNITY DISCUSSION:
 
--> **#organisation**: our community's GitHub org
+-> **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
 -> **#good-first-issues**: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
 -> **#first-timers**: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
 -> **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
 
--> **#mlh**: Major League Hacking -> see more at https://mlh.io/
-
 -> **#opensource**: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
-
--> **#battle-stations**: here you can share your workstation or workspace
 
 -> **#public-speaking**: improve your soft skills, public speaking, and build communities
 
 TECH: Channels regarding specific areas
 
--> **#ux-ui**, **#frontend**, **#backend**, **#linux**, **#devops**, **#git**, **#ml-ai**, **#databases**, **#tech-other**
+-> **#ux-ui**, **#frontend**, **#backend**, **#devops**, **#tech-other**
 
 ALERTS:
 
