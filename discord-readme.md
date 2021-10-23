@@ -67,7 +67,7 @@ COMMUNITY DISCUSSION:
 
 TECH: Channels regarding specific areas
 
--> **#ux-ui**, **#frontend**, **#backend**, **#devops**, **#tech-other**
+-> **#frontend**, **#backend**, **#devops**, **#tech-other**
 
 ALERTS:
 
