@@ -39,6 +39,12 @@ when using git checkout
 
 **upstream**: of a branch or a fork, the primary branch on the original repository is referred as "upstream"
 
+**fetch**: to add changes from the remote repository to a local working branch without committing them
+
+**merge**: to take changes from one branch (in the same repository or from a fork), and apply them into another
+
+**pull**: to fetch changes and merge them
+
 ### Additional Resources
 
 [Anonymous Function](https://en.wikipedia.org/wiki/Anonymous_function)
