@@ -4,11 +4,22 @@ Description of roles in #EddieHub Discord.
 
 ##
 
-| Role | Description | Extra |
+| Role | Description | Additional Info |
 | :---: | :---: | :---: |
-| admin | Administrator of the server | Ability to change server settings |
-| moderators | Moderate the server | Kick/Ban as required |
-| GitHub Star | GitHub Stars in the server | - |
-| sponsors | GitHub sponsors in the server | Access to a private channel |
-| Community Partner | Partners with our community | Founder from another community |
-| Repository Maintainer | Members who have maintainer access on at least 1 EddieHub repo |
+| Admin | The people who manage the server | They also get the permissions manage the server settings |
+| Moderators | Volunteers who help us make the community more inclusive | May take necessary actions (kick/ban) for violating the rules |
+| GitHub Star | People who have been recognized as GitHub Stars! | - |
+| Sponsors | Folks who support Eddie's work with a sponsorship  | Access to a private channel and a monthly sponsor call! |
+| Community Partner | Communities who've partnered with us to help provide even more awesome value! | Represent one of our partner communities |
+| Repository Maintainer | Volunteers who help us maintain our open source projects | They help us handle our projects |
+| Public Speaking Helpers | Helpers who schedule, plan and organise our weekly public speaking call | They also create reminders/notification by pinging @public speaking |
+| Team Eddie | Enthusiastic people who have added a lot of value to our community! | Participate in private discussions and get access to share links |
+| MLH Guild Mentors | Mentors for our MLH Guild in MLH Guild Events | - |
+| Helper | Volunteers who help out the community by guiding them and answering their questions | Notified whenever some one needs guidance or help |
+| Bio | A role assigned when you add a bio to EddieBot (Legacy) | - |
+| MLH Guild | Members of our MLH Guild in MLH Guild Events | - |
+| Community Chat | _Awaiting Description_ | - |
+| public speaking | Get notified about Public Speaking Events | - |
+| Battlesnake | A role for [Battlesnake](https://play.battlesnake.com/) participants | - |
+| Among Us | Get notified about game nights and such events | - |
+| Tech Stack Roles | Self assignable roles, to mark your skills | - |
