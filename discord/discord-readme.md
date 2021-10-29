@@ -1,4 +1,4 @@
-**Welcome to the EddieHubCommunity Discord server!**
+# Welcome to the EddieHubCommunity Discord server
 
 We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
@@ -21,7 +21,7 @@ The following are the guidelines regarding chat on the discord server:
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 - Showing empathy towards other community members
-- Full details can be found at https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md
+- Full details can be found at <https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md>
 
 **Enforcement:**
 
@@ -37,52 +37,53 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 **GENERAL DISCUSSION:**
 
--> **#general**: main text chat
+- **#general**: main text chat
 
--> **#help**: ask for help or provide help to the members of the community
+- **#help**: ask for help or provide help to the members of the community
 
--> **#content-share**: share web content
+- **#content-share**: share web content
 
--> **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
-DAILY:
+- **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
 
--> **#healthfitness:** share your tips on health and fitness so we can be healthy together.
+**DAILY:**
 
--> **#standup**: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
+- **#wellness:** share your tips on health and fitness so we can be healthy together.
 
--> **#achievements**: share your (personal) achievements with the community
+- **#standup**: every day of code, give us your standup updates! What you did yesterday, what you plan to do today, and any blockers?
 
-COMMUNITY DISCUSSION:
+- **#achievements**: share your (personal) achievements with the community
 
--> **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
+**COMMUNITY DISCUSSION:**
 
--> **#good-first-issues**: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
+- **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
--> **#first-timers**: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
--> **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
+- **#good-first-issues**: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
 
--> **#opensource**: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
+- **#first-timers**: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
 
--> **#public-speaking**: improve your soft skills, public speaking, and build communities
+- **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
+
+- **#opensource**: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
+
+- **#public-speaking**: improve your soft skills, public speaking, and build communities
 
 TECH: Channels regarding specific areas
 
--> **#frontend**, **#backend**, **#devops**, **#tech-other**
+- **#frontend**, **#backend**, **#devops**, **#tech-other**
 
 ALERTS:
 
--> **#youtube**: Channel for live stream updates of Eddie's youtube channel
+- **#youtube**: Channel for live stream updates of Eddie's YouTube channel
 
--> **#bot-logs**: Logs of EddieBotDev
+- **#bot-logs**: Logs of EddieBotDev
 
--> **#github**: Updates from the GitHub community
+- **#github**: Updates from the GitHub community
 
-You can raise an issue or a Pull request here -https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md if you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
+You can raise an issue or a Pull request here <https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md> If you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
 
 **Where to join our GitHub community?**
 
--> Create an Issue with the type `invite me to the GitHub Community Org`
-https://github.com/EddieHubCommunity/support/issues/new/choose
+- Click on this link to get invited to the community! https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization
 
 **How to ask for help**
 Tips to help you ask questions that will give you a better chance to get the best answers from everyone.
@@ -102,8 +103,8 @@ Tips to help you ask questions that will give you a better chance to get the bes
 8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it.
 9. **Roles**
 
-    Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events. 
+    Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events.
 
     To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
 
-    To assign a role, use `becca!role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `becca!role angular`.
+    To assign a role, use `/community role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `/community role angular`.

@@ -1,6 +1,7 @@
-**GitHub Tips**
+# GitHub Tips
 
-**Procedural steps to make contributions**
+## Procedural steps to make contributions
+
 - Fork the project (done via website)
 - Clone your fork (to your system)
 - Run ``` git status ```
@@ -16,13 +17,13 @@
 - Merge the upstream changes to your local main branch thus avoiding PR conflicts ``` git merge upstream/main ```
 - Request a PR on GitHub (website) after you have done your changes.
 
-**Learning more**
+## Learning more
 
-- Use GitHub's learning tool https://lab.github.com
-- Short helpful reads https://guides.github.com
-- Digital Ocean Tutorial Series for Open Source https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source
-- Thanks to the opensourceTips page, we discovered this https://learngitbranching.js.org
+- Use GitHub's learning tool <https://lab.github.com>
+- Short helpful reads <https://guides.github.com>
+- Digital Ocean Tutorial Series for Open Source <https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source>
+- Thanks to the opensourceTips page, we discovered this <https://learngitbranching.js.org>
 
-**Extra**
+## Extra
 
 - Use [**SSH**](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) where possible
