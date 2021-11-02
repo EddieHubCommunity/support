@@ -1,8 +1,8 @@
 # Roles
 
-Description of roles in #EddieHub Discord.
+Description of each roles in the EddieHub Discord community.
 
-##
+---
 
 | Role | Description | Additional Info |
 | :---: | :---: | :---: |

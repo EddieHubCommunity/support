@@ -15,6 +15,7 @@ window.addEventListener("click", function () {
 ```
 
 ### Frequently Used Terms Definitions
+
 **git**: an open source, distributed version-control system
 
 **GitHub**: a platform for hosting and collaborating on Git repositories
@@ -47,6 +48,5 @@ when using git checkout
 
 ### Additional Resources
 
-[Anonymous Function](https://en.wikipedia.org/wiki/Anonymous_function)
-
-[Frequently Used Terms Definitions](https://docs.github.com/en/get-started/quickstart/github-glossary)
+- [Anonymous Function](https://en.wikipedia.org/wiki/Anonymous_function)
+- [Frequently Used Terms Definitions](https://docs.github.com/en/get-started/quickstart/github-glossary)
