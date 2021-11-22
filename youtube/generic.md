@@ -28,7 +28,7 @@ Join our inclusive open source community EddieHub now for FREE at https://www.ed
 
 ## Community Sponsors
 
-Stephen Mount http://github.com/stemount
+Stephen Mount https://github.com/stemount
 
 Nicholas Carrigan https://github.com/nhcarrigan
 
