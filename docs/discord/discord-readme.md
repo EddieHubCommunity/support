@@ -93,18 +93,23 @@ Tips to help you ask questions that will give you a better chance to get the bes
 3. **Clearly describe the problem.** Explain what is happening and what you want to happen.
 4. **Share your code.** It’s very unlikely that anyone will be able to solve your problem without seeing your code. Share a GitHub repository, a GitHub gist link, or format the code by wrapping it in backticks, like the example below.
 
-\```c++
+````txt
+```ts
   // Your code goes here
-\``` <!-- In Discord, this will look fine -->
+```
+````
+
+<!-- markdownlint-disable ol-prefix -->
 
 5. **Send screenshots, if relevant.** It often helps people to see the browser output, so send over a screenshot of what you can see, in this case.
 6. **Explain what you have already tried.** You don't want people to suggest things you have already done.
 7. **Send updates so people know whether their answer has helped you.**
 8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it.
 9. **Roles**
+<!--markdownlint-enable ol-prefix -->
 
-    Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events.
+Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events.
 
-    To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
+To see the roles that are available, head over to #bot-chat and use the command `becca!role`. Becca will send a list of the roles you can assign to yourself.
 
-    To assign a role, use `/community role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `/community role angular`.
+To assign a role, use `/community role <role name>` and Becca will give you that role. For example, if I wanted the `angular` role, I would send the command `/community role angular`.
