@@ -35,6 +35,8 @@ When you do this, GitHub's UI will give you a chance to edit the commit message.
 
 For example, the commit message which created this file was `docs: add drafts for moderation guide`.
 
+Additionally, GitHub will automatically append the pull request number at the end of the default commit message. **DO NOT REMOVE THIS**, as it allows people to reference the pull request that created the commit to check the full commit history.
+
 ## Handling Inactive PRs
 
 If a contributor has not responded to reviews or comments on a PR, follow this general timeline for how to respond:
