@@ -1,0 +1,36 @@
+{
+  "name": "eddiehub-support",
+  "version": "1.0.0",
+  "description": "A Docsify site providing various information relevant to our community.",
+  "main": "null",
+  "scripts": {
+    "lint": "markdownlint ./docs/**/*.md",
+    "start": "docsify serve ./docs -o --port 3200"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhcarrigan/support.git"
+  },
+  "keywords": [
+    "docsify",
+    "support",
+    "markdown"
+  ],
+  "engines": {
+    "node": "^16.10.0",
+    "npm": "^8.0.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieHubCommunity/support/issues"
+  },
+  "homepage": "https://github.com/EddieHubCommunity/support#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.24.0",
+    "markdownlint-cli": "^0.30.0"
+  }
+}
