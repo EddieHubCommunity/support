@@ -44,7 +44,7 @@ If a contributor has not responded to reviews or comments on a PR, follow this g
 - After 7 days (one week) of inactivity, a maintainer should comment on the PR.
   - This comment should ping the author, ask for a status update, and remind them that we have a Discord server if they need assistance with contributing.
 - After 14 days (two weeks) of inactivity **since the contributor's last comment**, a maintainer should close the pull request.
-  - Be sure to leave a friendly message thanking them for their efforts and inviting them to request we re-open the PR when they are available to complete the changes.
+  - Be sure to leave a friendly message thanking them for their efforts and inviting them to request that we re-open the PR when they are available to complete the changes.
 
 In general, only *one* maintainer should be reaching out to the contributor. If multiple maintainers reach out, we could inadvertently make our contributors feel pressured/rushed. We are all busy, and want to respect each others' time.
 
