@@ -46,10 +46,10 @@ If a contributor has not responded to reviews or comments on a PR, follow this g
 - After 14 days (two weeks) of inactivity **since the contributor's last comment**, a maintainer should close the pull request.
   - Be sure to leave a friendly message thanking them for their efforts and inviting them to request that we re-open the PR when they are available to complete the changes.
 
-In general, only *one* maintainer should be reaching out to the contributor. If multiple maintainers reach out, we could inadvertently make our contributors feel pressured/rushed. We are all busy, and want to respect each others' time.
+In general, only *one* maintainer should be reaching out to the contributor. If multiple maintainers reach out, we could inadvertently make our contributors feel pressured/rushed. We are all busy and want to respect each others' time.
 
 ## Handling Inactive Issues
 
 In general, inactive issues are handled by `Stalebot`, which will add a label after a period of inactivity and close the issue a few days later.
 
-If an issue should not be closed, remove the `stale issue` label that the action has added, and then leave a comment on the issue explaining why it is still necessary. If an issue is repeatedly being labelled by the bot, it may indicate that it is not a priority and we should re-evaluate the need.
+If an issue should not be closed, remove the `stale issue` label that the action has added, and then leave a comment on the issue explaining why it is still necessary. If an issue is repeatedly being labeled by the bot, it may indicate that it is not a priority and we should re-evaluate the need.
