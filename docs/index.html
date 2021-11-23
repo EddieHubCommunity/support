@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+    />
+    <style>
+      :root {
+        --theme-color: #202328;
+        --mono-hue: 255;
+        --theme-hue: 255;
+        --mono-tint3: #202328;
+        --mono-tint2: #202328;
+        --mono-tint1: #202328;
+        --base-color: #202328;
+        --heading-color: #202328;
+        --base-background-color: #D4D1C5;
+        --sidebar-background: #D4D1C5;
+        --sidebar-nav-link-color: #202328;
+        --code-inline-background: #202328;
+        --table-row-odd-background: #D4D1C5;
+      }
+
+      .sidebar-nav > h1 {
+        font-size: var(--modular-scale-2);
+      }
+    </style>
+    <title>EddieHub Support</title>
+  </head>
+  <body>
+    <div id="app">
+      <h1>EddieHub Support Repo</h1>
+      <p>Resources to help our community grow and thrive.</p>
+    </div>
+  </body>
+  <script>
+    window.$docsify = {
+      name: "",
+      repo: "eddiehubcommunity/support",
+      loadSidebar: "_navbar.md",
+      homepage: "index.md",
+      auto2top: true,
+      // Plugins
+      "flexible-alerts": {
+        style: "flat",
+      },
+      copyCode: {
+        buttonText: "Copy this snippet",
+        errorText: "Could not copy!",
+        successText: "Copied to clipboard",
+      },
+      maxLevel: 2,
+    };
+  </script>
+  <!-- Docsify v4 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.1/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts@1"></script>
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <!-- Prism (syntax highlighting) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/components/prism-typescript.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/components/prism-markdown.min.js"></script>
+</html>
