@@ -15,7 +15,7 @@ Make sure to checkout my website and sign up to our community NEWSLETTER: https:
 ## Join Our Community
 
 Join our inclusive open source community EddieHub now for FREE at https://www.eddiehub.org
- 
+
 1. Go to https://github.com/EddieHubCommunity/support/issues/new/choose
 
 2. Choose The Issue Type Of Invite Me To The Organization
@@ -53,10 +53,10 @@ Some of these might be affiliate links, no extra cost to you, but I get a little
 \- Awesome backup platform, BackBlaze http://links.eddiejaoude.io/t/4rqTZjLbwmCp
 
 ---
- 
+
 ## Find me on socials
 
-Website: https://www.eddiejaoude.io 
+Website: https://www.eddiejaoude.io
 
 GitHub: https://github.com/eddiejaoude
 
@@ -70,4 +70,5 @@ LinkedIn: https://linkedin.com/in/eddiejaoude
 GitHub Community Organization link: https://github.com/EddieHubCommunity
 
 ## Meet our Community
+
 Join the Conversation at Discord: http://discord.eddiehub.org/

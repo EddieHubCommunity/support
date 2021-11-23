@@ -1,8 +1,12 @@
+# Nightbot Config
+
+This file documents our configuration for Nightbot.
+
 ## Allowed links
 
 These links are on Nightbots allowed list
 
-```
+```txt
 github.com
 ~/[\s]*\.github\.com/i
 gist.github.com
