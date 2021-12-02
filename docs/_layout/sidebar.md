@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 - Discord
   - [Rules](/discord/discord-readme.md)
   - [Self-Roles](/discord/roles.md)
