@@ -14,5 +14,5 @@
   - [Open Source Tips](/tips/OpenSourceTips.md)
 
 - Templates
-  - [Youtube Generic Template](/youtube/generic.md)
+  - [YouTube Generic Template](/youtube/generic.md)
   - [LiveStream Review Template](/youtube/livestream.md)
