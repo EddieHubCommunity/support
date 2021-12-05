@@ -5,6 +5,9 @@
   - [Roles List](/discord/roles.md)
 - Mee6
   - [Welcome DM](/mee6/welcome-dm.md)
+- Moderators
+  - [Discord Moderation Guide](/moderators/discord.md)
+  - [GitHub Maintainer Guide](/moderators/github.md)
 - Nightbot
   - [Allowed Links](/nightbot/allowed-links.md)
 - Tips
