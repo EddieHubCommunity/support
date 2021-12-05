@@ -1,9 +1,13 @@
 <!-- markdownlint-disable-next-line -->
 - Discord
   - [Rules](/discord/discord-readme.md)
+  - [Moderation Guide](/moderators/discord.md)
   - [Self-Roles](/discord/roles.md)
   - [Welcome DM](/mee6/welcome-dm.md)
   - [Allowed Links](/nightbot/allowed-links.md)
+
+- GitHub
+  - [GitHub Maintainer Guide](/moderators/github.md)
 
 - Tips
   - [Finding Open Source Projects](/tips/finding-open-source-projects.md)
