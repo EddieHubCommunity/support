@@ -22,6 +22,7 @@ The following are the guidelines regarding chat on the discord server:
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 - Full details can be found at <https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md>
+- In addition to our code of conduct, members should follow Discord's community guidelines (<https://discord.com/guidelines>) as well
 
 **Enforcement:**
 
