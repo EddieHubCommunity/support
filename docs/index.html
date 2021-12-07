@@ -5,6 +5,11 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Space+Mono:wght@400;700&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
     title="docsify-darklight-theme" type="text/css" />
   <title>EddieHub Support</title>
@@ -48,6 +53,44 @@
       errorText: "Could not copy!",
       successText: "Copied to clipboard",
     },
+
+    // Theme
+    darklightTheme: {
+      siteFont: 'Lato',
+      defaultTheme: 'dark',
+      codeFontFamily: 'Space Mono',
+      bodyFontSize: '18px',
+      dark: {
+        accent: '#FE5A01',
+        toogleBackground: '#ffffff',
+        background: '#232328',
+        textColor: '#b4b4b4',
+        codeTextColor: '#ffffff',
+        codeBackgroundColor: '#313136',
+        borderColor: '#0d2538',
+        blockQuoteColor: '#FE5A01',
+        highlightColor: '#FE5A01',
+        sidebarSublink: '#b4b4b4',
+        codeTypeColor: '#ffffff',
+        coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+        toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
+      },
+      light: {
+        accent: '#FE5A01',
+        toogleBackground: '#091a28',
+        background: '#ffffff',
+        textColor: '#34495e',
+        codeTextColor: '#525252',
+        codeBackgroundColor: '#f8f8f8',
+        borderColor: 'rgba(0, 0, 0, 0.07)',
+        blockQuoteColor: '#FE5A01',
+        highlightColor: '#FE5A01',
+        sidebarSublink: '#222222',
+        codeTypeColor: '#091a28',
+        coverBackground: 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
+        toogleImage: 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/moon.svg)'
+      }
+    }
   };
 </script>
 <!-- Docsify v4 -->
