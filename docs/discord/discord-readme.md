@@ -4,7 +4,7 @@ We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
 We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers and #good-first-issues , if you get stuck somewhere feel free to ask for help in the community, you'll find someone who can help you for sure and others will learn along too!
 
-**Please try to adhere by our Code Of Conduct(COC):**
+**Please try to adhere by our Code of Conduct (CoC):**
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -22,7 +22,7 @@ The following are the guidelines regarding chat on the discord server:
 - Focusing on what is best for the community
 - Showing empathy towards other community members
 - Full details can be found at <https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md>
-- In addition to our code of conduct, members should follow Discord's community guidelines (<https://discord.com/guidelines>) as well
+- In addition to our Code of Conduct, members should follow [Discord's community guidelines](https://discord.com/guidelines) as well
 
 **Enforcement:**
 
