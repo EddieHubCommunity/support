@@ -9,28 +9,30 @@ JOIN our inclusive open source community now for FREE... https://www.eddiehub.or
 
 Reviewing your Open Source projects #OpenSource #GitHub #DevRel
 
-SERVICES I USE AND RECOMMEND
+## SERVICES I USE AND RECOMMEND
 
-Some of these might be affiliate links, no extra cost to you, but I get a little $ if you sign up, plus you might get a discount too.
+Some of these might be affiliate links, no extra cost you to, but I get a little $ if you sign up, plus you might get a discount too
 
-- NoSQL serverless database with DataStax, you will get $25 FREE credit every month http://links.eddiejaoude.io/t/bBM0STvCi2a4
 - Live streaming with Streamyard http://links.eddiejaoude.io/t/pYlzGjcta1a4
 - Cloud hosting with Digital Ocean, you will get $100 FREE credit http://links.eddiejaoude.io/t/EAaCRWhsnZlF
 - Membership, Newsletters, CRM all in one with Kartra http://links.eddiejaoude.io/t/pQ5W3FRLk8Cp
 - Awesome backup platform, BackBlaze http://links.eddiejaoude.io/t/4rqTZjLbwmCp
+- Descript for video editing, audiograms and transcription http://links.eddiejaoude.io/t/RlpGwZtj0KCp
 
-COMMUNITY SPONSORS
+## COMMUNITY SPONSORS
 
 A BIG thank you to my GitHub Sponsors:
 ***
 Stephen Mount http://github.com/stemount
-Nicholas Carrigan https://github.com/nhcarrigan
+DailyDotDev https://github.com/dailydotdev
 ***
 
+- Nicholas Carrigan https://github.com/nhcarrigan
 - Santosh Yadav https://github.com/santoshyadavdev
 - Andrew Cunliffe https://github.com/andrew-cunliffe
 - Alexander Stoichkov https://github.com/SashoStoichkov
 - Allan Regush https://github.com/AllanRegush
+- CORE Multi-Chain Framework https://github.com/CORE-Blockchain
 
 FIND ME ON OTHER SOCIAL PLATFORMS
 
