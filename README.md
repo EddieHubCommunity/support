@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddiehubcommunity/support)
+
 # Community Support
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org)
