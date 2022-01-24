@@ -1,15 +1,14 @@
-# [EddieHub Support](/index.md)
-
+<!-- markdownlint-disable-next-line -->
 - Discord
-  - [Discord Readme](/discord/discord-readme.md)
-  - [Roles List](/discord/roles.md)
-- Mee6
+  - [Rules](/discord/discord-readme.md)
+  - [Moderation Guide](/moderators/discord.md)
+  - [Self-Roles](/discord/roles.md)
   - [Welcome DM](/mee6/welcome-dm.md)
-- Moderators
-  - [Discord Moderation Guide](/moderators/discord.md)
-  - [GitHub Maintainer Guide](/moderators/github.md)
-- Nightbot
   - [Allowed Links](/nightbot/allowed-links.md)
+
+- GitHub
+  - [GitHub Maintainer Guide](/moderators/github.md)
+
 - Tips
   - [Finding Open Source Projects](/tips/finding-open-source-projects.md)
   - [Git Tips and Tricks](/tips/git.md)
@@ -17,6 +16,7 @@
   - [Common Terms](/tips/glossary.md)
   - [Open Source Resources](/tips/OpenSourceResources.md)
   - [Open Source Tips](/tips/OpenSourceTips.md)
-- YouTube
-  - [Generic Description Template](/youtube/generic.md)
-  - [LiveStream Reviews Template](/youtube/livestream.md)
+
+- Templates
+  - [YouTube Generic Template](/youtube/generic.md)
+  - [LiveStream Review Template](/youtube/livestream.md)
