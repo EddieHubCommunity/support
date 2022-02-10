@@ -51,19 +51,7 @@ Please check out the [issue queue](https://github.com/EddieHubCommunity/support/
 Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
 - **How do I set the Organization to Public?**
-	- Navigate to our community page: https://github.com/EddieHubCommunity
-	
-	- Click on the highlighted area:
-	
-		![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
-	
-	- Enter your username in the highlighted search bar:
-	
-		![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
-	
-	- Click `Private` (the default) and set it to `Public`
-	
-		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+	- Please refer [here](https://scribehow.com/shared/Github_Workflow__34aaBI3OToeOaIpUCPortA) to set the organization to public for your username
 	
 	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
