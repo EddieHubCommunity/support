@@ -36,9 +36,8 @@ Must be one of the following:
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
 
-
 ### Becoming an EddieHub Maintainer
 
-EddieHub is all about open source collaboration. We want it to be a place which is inclusive and welcoming for all and therefore our maintainers are carefully chosen from those we see upholding the EddieHub ethos of collaboration first, code second, making quality contributions to EddieHub over a longer period of time and those that follow the [CODE of CONDUCT](CODE_OF_CONDUCT.md). 
+EddieHub is all about open source collaboration. We want it to be a place which is inclusive and welcoming for all and therefore, our maintainers are carefully chosen from those we see upholding the EddieHub guiding principles of collaboration first, code second, making quality contributions to EddieHub over a longer period of time and those that follow the [CODE of CONDUCT](CODE_OF_CONDUCT.md).
 
-Please don’t ask to become a maintainer, instead show your interest and potential through quality  contributions. Our moderation team regularly discusses which contributors make a positive impact on the community. Those seen regularly making a positive impact in line with our code of conduct will be extended an invite to join the maintainer team.
+Please don’t ask to become a maintainer; instead, show your interest and potential through quality contributions. Our moderation team regularly discusses which contributors make a positive impact on the community. Those seen regularly making a positive impact in line with our code of conduct will be extended an invite to join the maintainer team.
