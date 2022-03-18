@@ -77,5 +77,5 @@ Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-man
 
 ## Socials
 
-Join our Discord community [here](http://discord.eddiehub.org)   
-Subscribe our YouTube channel [here](https://www.youtube.com/user/eddiejaoude)
+Join our Discord community [here](https://discord.com/invite/jZQs6Wu)   
+Subscribe our YouTube channel [here](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA)
