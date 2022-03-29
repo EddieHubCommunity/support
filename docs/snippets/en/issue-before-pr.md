@@ -2,7 +2,7 @@
 
 ### TLDR;
 
-Thank you for the PR. It is better to make the PR first.
+Thank you for the PR. It is better to make an issue first.
 
 ---
 
