@@ -2,7 +2,7 @@
 
 ### TLDR;
 
-Come and join the realtime discussion and collaboration.
+Come and join the realtime discussion and collaboration http://discord.eddiehub.org
 
 ---
 
