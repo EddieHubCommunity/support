@@ -2,8 +2,8 @@
 
 ## TLDR;
 
-Vielen Dank für den PR. Ihr Branch scheint hinter dem Default Branch `main` zu
-liegen. Bitte aktualisieren Sie Ihren Branch mit den aktuellen Änderungen.
+Vielen Dank für den PR. Dein Branch scheint hinter dem Default Branch `main` zu
+liegen. Bitte aktualisiere deinen Branch mit den aktuellen Änderungen.
 
 ---
 
