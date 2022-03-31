@@ -7,9 +7,7 @@ und desto wahrscheinlicher ist es, dass der PR schneller gemergt wird.
 
 ---
 
-###
-
-Warum sind kleinere PRs besser
+### Warum sind kleinere PRs besser?
 
 - Einfacher für den Reviewer
 - Werden schneller gemergt - Reduziert Konflikte mit anderen Änderungen
