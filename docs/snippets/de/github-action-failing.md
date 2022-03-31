@@ -5,8 +5,7 @@
 Vielen Dank für den PR. Eine GitHub Action ist fehlgeschlagen. Bitte prüfen Sie
 den Output der Action, um mehr über den Fehler zu erfahren.
 
-Falls Sie Fragen haben, zögern Sie nicht, diese im EddieHub Discord Channel unter
-zu stellen http://discord.eddiehub.org
+Falls du Fragen haben solltest, kannst du diese gerne im [EddieHub Discord Channel](http://discord.eddiehub.org) stellen.
 
 ---
 
