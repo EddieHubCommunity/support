@@ -11,8 +11,7 @@ Falls du Fragen haben solltest, kannst du diese gerne im [EddieHub Discord Chann
 
 ###
 
-GitHub Actions führen automatisierte Tests durch. Sie ersetzen nicht die manuelle
-Überprüfung, aber helfen uns, den Fokus auf eine wertvollere Zusammenarbeit zu legen.
+GitHub Actions führen automatisierte Tests durch. Sie ersetzen nicht die manuelle Überprüfung, aber helfen uns, den Fokus auf eine wertvollere Zusammenarbeit zu legen.
 
 GitHub Actions beinhalten normalerweise...
 
