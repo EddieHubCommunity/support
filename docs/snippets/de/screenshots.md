@@ -2,8 +2,7 @@
 
 ### TLDR;
 
-Ihre PR-Änderungen zu erläutern ist großartig. Bitte ziehen Sie auch in Betracht,
-einen Vorher/Nachher-Screenshot hinzuzufügen.
+Deine PR-Änderungen zu erläutern ist großartig. Bitte ziehe auch in Betracht, einen Vorher/Nachher-Screenshot hinzuzufügen.
 
 ---
 
