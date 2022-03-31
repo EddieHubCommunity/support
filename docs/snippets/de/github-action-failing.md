@@ -2,8 +2,8 @@
 
 ### TLDR;
 
-Vielen Dank für den PR. Eine GitHub Action ist fehlgeschlagen. Bitte prüfen Sie
-den Output der Action, um mehr über den Fehler zu erfahren.
+Vielen Dank für den PR. Eine GitHub Action ist fehlgeschlagen. Bitte prüfe
+den Output, um mehr über den Fehler zu erfahren.
 
 Falls du Fragen haben solltest, kannst du diese gerne im [EddieHub Discord Channel](http://discord.eddiehub.org) stellen.
 
