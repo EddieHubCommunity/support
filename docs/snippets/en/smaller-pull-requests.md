@@ -1,12 +1,12 @@
-## Smaller and focsued Pull Requests (PR)
+## Smaller and focused Pull Requests (PR)
 
 ### TLDR;
 
-The smaller and more focused the PR the easier for the reviewer and the more likely it is to to merge faster.
+The smaller and more focused the PR the easier for the reviewer and the more likely it is to merge faster.
 
 ---
 
-### 
+###
 
 Why are smaller PRs better
 
