@@ -13,7 +13,7 @@ Wenn Änderungen eingebunden/gemerged werden, können andere PRs veraltet sein u
 müssen aktualisiert werden.
 
 - Aktualisieren Sie den Default-Branch `main` Ihres Forks
-- Mergen Sie `main` in Ihren Branch
+- Merge `main` in deinen Branch
 
 ---
 
