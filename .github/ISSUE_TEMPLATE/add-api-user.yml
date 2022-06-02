@@ -1,0 +1,17 @@
+name: EddieHub API
+description: Add me to the EddieHub API
+title: "Please add me to the EddieHub API"
+labels: [EddieHub-API-add]
+body:
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username (if applicable)
+      placeholder: Insert your Discord username here
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](http://discord.eddiehub.org)
+        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
