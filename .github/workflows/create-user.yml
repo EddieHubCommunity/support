@@ -1,0 +1,14 @@
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  create-user:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: EddieHubCommunity/gh-action-community/src/api-user@main
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          api-key: ${{ secrets.API_TOKEN }}
+          api-url: ${{ secrets.API_URL }}/github
