@@ -8,7 +8,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[Join the Discord Community](http://discord.eddiehub.org) — [Subscribe to Eddie Jaoude's YouTube](https://www.youtube.com/user/eddiejaoude)
+[Join the Discord Community](http://discord.eddiehub.org) — [Subscribe to Eddie Jaoude's YouTube channel](https://www.youtube.com/user/eddiejaoude)
 
 ---
 
