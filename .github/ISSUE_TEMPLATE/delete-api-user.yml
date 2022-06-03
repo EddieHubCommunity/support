@@ -1,4 +1,4 @@
-name: EddieHub API
+name: EddieHub API delete
 description: Delete me from the EddieHub API. By opting-out your previously recorded stats will get deleted as well.
 title: "Please delete me from the EddieHub API"
 labels: [EddieHub-API-delete]
