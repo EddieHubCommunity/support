@@ -2,7 +2,7 @@
 
 We believe Open Source is for everyone, yes you!
 OPEN SOURCE is NOT about code, it is about people and collaboration
-We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers and #good-first-issues , if you get stuck somewhere feel free to ask for help in the community, you'll find someone who can help you for sure and others will learn along too!
+We are invested in getting you those green squares on GitHub! Contributing to Open Source Software (OSS) is a great way for you to learn, work with different people and also network. You'll find awesome people here who will guide you and if you're a beginner in open source, keep an eye on #first-timers, if you get stuck somewhere feel free to ask for help in the community, you'll find someone who can help you for sure and others will learn along too!
 
 **Please try to adhere by our Code Of Conduct(COC):**
 
@@ -58,13 +58,9 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 - **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
 
-- **#good-first-issues**: get started with open source and get your :green_square: - opportunities are provided for new contributors - discussions not to happen here as this is just for people to share links, please discuss in #first-timers
-
-- **#first-timers**: discussion about getting :green_square: and also the issues that are mentioned in the #good-first-issues
+- **#first-timers**: discussion about getting :green_square:
 
 - **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
-
-- **#opensource**: discussing interesting open-source news and information, that may or may not be related to EddieHubCommunity
 
 - **#public-speaking**: improve your soft skills, public speaking, and build communities
 
