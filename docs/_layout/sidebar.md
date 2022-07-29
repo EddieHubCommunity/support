@@ -16,6 +16,7 @@
   - [Common Terms](/tips/glossary.md)
   - [Open Source Resources](/tips/OpenSourceResources.md)
   - [Open Source Tips](/tips/OpenSourceTips.md)
+  - [Glossary](/tips/glossary.md)
 
 - Templates
   - [YouTube Generic Template](/youtube/generic.md)
