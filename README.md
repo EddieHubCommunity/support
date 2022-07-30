@@ -5,6 +5,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![Discord](https://img.shields.io/discord/699608417039286293?style=flat-square)](http://discord.eddiehub.org)
+[![License: MIT](https://img.shields.io/github/license/appvia/kev)](https://github.com/EddieHubCommunity/support/blob/main/LICENSE)
+
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
