@@ -52,4 +52,4 @@ A maintainer might have a contributing requirement that PRs have only one commit
 - Step two: Using `git`'s interactive rebasing feature, we are going to rebase against your current default branch with `git rebase -i origin/<branchname>` (the branch name is most likely `main`).
 - Step three: Using the file that opens in your editor, set the commit at the *top* of the list to `pick` and the rest of the commits to `squash`. Save and close the file.
 - Step four: Force your remote branch to accept this new commit history with `git push -f`.
-- Step five: Celebrate your success! 🎉
+- Step five: Celebrate your success! :tada:

@@ -56,7 +56,7 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 **COMMUNITY DISCUSSION:**
 
-- **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd:
+- **#ideas**: got an idea / suggestion for the community? We love hearing new ideas :nerd_face:
 
 - **#first-timers**: discussion about getting :green_square:
 
