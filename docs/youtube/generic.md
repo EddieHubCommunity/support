@@ -22,7 +22,7 @@ Join our inclusive open source community EddieHub now for FREE at https://www.ed
 
 3. Open The Issue
 
-4. You get an invitation to the community by our GitHub Action 🎉 
+4. You get an invitation to the community by our GitHub Action 🎉
 
 ---
 
