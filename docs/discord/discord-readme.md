@@ -97,8 +97,7 @@ Tips to help you ask questions that will give you a better chance to get the bes
 7. **Send updates so people know whether their answer has helped you.**
 8. **Help other people out when you can.** If people see you helping others, they will be even more likely to help you when you need it.
 
-**Roles**
-<!--markdownlint-enable ol-prefix -->
+### Roles
 
 Our server has several roles you can assign to yourself, such as roles for your specific tech stack or roles that we ping for certain events.
 
