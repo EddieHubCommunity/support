@@ -13,6 +13,13 @@ body:
       placeholder: "e.g.: https://<your-username>.github.io/portfolio"
     validations:
       required: true
+  - type: input
+    id: link
+    attributes:
+      label: GitHub Repo Link
+      placeholder: "e.g.: https://github.com/YOUR_USERNAME/REPO"
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
