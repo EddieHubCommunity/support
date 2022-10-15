@@ -37,14 +37,14 @@
 ## FAQs
 
 - **Q1 What is a GitHub Organization?** 
-  **Ans:** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
+- **Ans:** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
   Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
   
 - **Q2 How do I join the Github Organization?** 
-  **Ans:** Raise an issue on this repository asking to join ([invite me](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
+- **Ans:** Raise an issue on this repository asking to join ([invite me](https://github.com/EddieHubCommunity/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
   
 - **Q3 How do I set the Organization to Public?**
-  **Ans:**
+- **Ans:**
   - Navigate to our community page: https://github.com/EddieHubCommunity
   - Click on the highlighted area:
 
@@ -59,13 +59,13 @@
     ![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 
 - **Q4 How do I keep my Git fork up to date?** 
-  **Ans:** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
+- **Ans:** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
   
-- **Q4 What is DevRel?** 
-  **Ans:** Check out the discussion on [this issue](https://github.com/EddieHubCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
+- **Q5 What is DevRel?** 
+- **Ans:** Check out the discussion on [this issue](https://github.com/EddieHubCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
   
-- **Q5 How do I get started with open source?**
-  **Ans:** You can make your first pull request in this [repository](https://github.com/EddieHubCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can ask questions in our Discord. We have a channel for `first-timers` and `opensource`.
+- **Q6 How do I get started with open source?**
+- **Ans:** You can make your first pull request in this [repository](https://github.com/EddieHubCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can ask questions in our Discord. We have a channel for `first-timers` and `opensource`.
 
   **Here is a list of resources that also might help you start contributing to open source:**
 
