@@ -76,7 +76,7 @@ ALERTS:
 
 - **#github**: Updates from the GitHub community
 
-You can raise an issue or a Pull request here <https://github.com/EddieHubCommunity/support/blob/main/discord-readme.md> If you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
+You can raise an issue or a Pull request here <https://github.com/EddieHubCommunity/support/edit/main/docs/discord/discord-readme.md> If you find any necessary changes to be made in the README, get started with open source and get your :green_square: right away!
 
 **Where to join our GitHub community?**
 
