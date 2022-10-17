@@ -14,7 +14,7 @@ body:
     validations:
       required: true
   - type: input
-    id: link
+    id: repo
     attributes:
       label: GitHub Repo Link
       placeholder: "e.g.: https://github.com/YOUR_USERNAME/REPO"
