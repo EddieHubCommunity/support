@@ -8,7 +8,7 @@ Description of each roles in the EddieHub Discord community.
 | :---: | :---: | :---: |
 | Admin | The people who manage the server | They also get the permissions manage the server settings |
 | Moderators | Volunteers who help us make the community more inclusive | May take necessary actions (kick/ban) for violating the rules |
-| GitHub Star | People who have been recognized as GitHub Stars! | - |
+| GitHub Star | People who have been recognized as GitHub Stars! | program that empowers Stars to Inspire, Educate and Influence communities  |
 | Sponsors | Folks who support Eddie's work with a sponsorship  | Access to a private channel and a monthly sponsor call! |
 | Community Partner | Communities who've partnered with us to help provide even more awesome value! | Represent one of our partner communities |
 | Repository Maintainer | Volunteers who help us maintain our open source projects | They help us handle our projects |
