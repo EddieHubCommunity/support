@@ -6,4 +6,4 @@
 - [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE&ab_channel=freeCodeCamp.org)
 - [How to contribute to open source by FreeCodeCamp](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 - [Open Source Guide](https://opensource.guide/)
-- [Hacktoberfest resources](https://hacktoberfest.digitalocean.com/details#beginners)
+- [Hacktoberfest beginner resources](https://hacktoberfest.com/participation/#beginner-resources)
