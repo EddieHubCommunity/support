@@ -1,3 +1,0 @@
-# Moderating Youtube
-
-Coming soon! :)
