@@ -20,4 +20,4 @@
 
 - Templates
   - [YouTube Generic Template](/youtube/generic.md)
-  - [LiveStream Review Template](/youtube/livestream.md)
+  
