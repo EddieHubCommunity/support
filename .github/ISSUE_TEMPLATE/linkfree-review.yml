@@ -6,7 +6,7 @@ body:
   - type: input
     id: link
     attributes:
-      label: LinkFree link
+      label: LinkFree profile link
       placeholder: "e.g.: https://linkfree.eddiehub.io/eddiejaoude"
     validations:
       required: true
