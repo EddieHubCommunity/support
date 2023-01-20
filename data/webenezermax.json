@@ -1,0 +1,14 @@
+{
+  "name": "Ebenezer Adeoye",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "I'm a nursing student very much interested in web development, I'm a learning frontend web developer and a very enthusiastic learner.",
+  "avatar": "https://github.com/webenezermax.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/devsozo",
+      "icon": "FaTwitter",
+    }
+    ]
+}
