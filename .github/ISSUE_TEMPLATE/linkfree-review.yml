@@ -1,0 +1,17 @@
+name: LinkFree Review
+description: Please review my LinkFree profile on a livestream
+title: "[REVIEW]"
+labels: [LinkFree review, live stream review]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: LinkFree profile link
+      placeholder: "e.g.: https://linkfree.eddiehub.io/eddiejaoude"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        You can also join our Discord community [here](http://discord.eddiehub.org)
+        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
