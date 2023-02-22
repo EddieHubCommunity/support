@@ -52,4 +52,26 @@ A maintainer might have a contributing requirement that PRs have only one commit
 - Step two: Using `git`'s interactive rebasing feature, we are going to rebase against your current default branch with `git rebase -i origin/<branchname>` (the branch name is most likely `main`).
 - Step three: Using the file that opens in your editor, set the commit at the *top* of the list to `pick` and the rest of the commits to `squash`. Save and close the file.
 - Step four: Force your remote branch to accept this new commit history with `git push -f`.
-- Step five: Celebrate your success! :tada:
+- Step five: Celebrate your success! 🎉
+
+> **Note**: Force-pushing a branch can have unintended side effects, so be very careful when force-pushing.
+
+### Squashing the latest commit
+
+If you want to squash the latest commit _only_, you can run one single command which is much shorter.
+
+1. Be sure to verify that you're on the correct branch.
+2. Stage all your changes by using `git add .` or `git add <filename>` for certain file.
+3. Run the following command. This command will squash the current staged changes with the other commit's changes.
+
+```bash
+git commit --amend -m "commit message" -m "commit description (optional)"
+```
+
+4. Force-push your changes to the desired branch.
+
+```bash
+git push -f
+```
+
+5. You're done now! 🎉 The latest commit has been successfully changed.
