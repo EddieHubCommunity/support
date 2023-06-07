@@ -65,3 +65,9 @@
   - [Open source tips from EddieBot](./docs/tips)
 
 - **How to look for an open-source project to contribute?** Check [Finding Open Source Projects](./docs/tips/finding-open-source-projects.md)
+
+## Our Pledge
+
+We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.  
+
+If you have experienced or been made aware of unacceptable behaviour, please remember that you can report this.  Read our [Code of Conduct](https://github.com/EddieHubCommunity/support/blob/main/CODE_OF_CONDUCT.md).
