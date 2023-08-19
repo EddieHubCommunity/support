@@ -58,7 +58,7 @@
 
     ![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
 
-- **Q4 How do I keep my Git fork up to date?** 
+- **Q4 How do I keep my forked repo up to date?** 
 - **Ans:** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/EddieHubCommunity/support/issues/94).
   
 - **Q5 What is DevRel?** 
