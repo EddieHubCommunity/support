@@ -65,7 +65,7 @@
 - **Ans:** Check out the discussion on [this issue](https://github.com/EddieHubCommunity/support/issues/64) or on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
   
 - **Q6 How do I get started with open source?**
-- **Ans:** You can make your first pull request in this [repository](https://github.com/EddieHubCommunity/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can ask questions in our Discord. We have a channel for `first-timers` and `opensource`.
+- **Ans:** You can make your first pull request in this [repository](https://github.com/EddieHubCommunity/hacktoberfest-practice). Follow the instructions in the README file. Don't forget, contributing to open source is not just about code but also collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:. If you have any trouble, you can post your questions in our [Discord](https://discord.gg/jmAcBy898Z)server. We have a channel for `first-timers` and `opensource`.
 
   **Here is a list of resources that also might help you start contributing to open source:**
 
