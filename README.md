@@ -72,5 +72,5 @@
   - [How to get started in hackathons](https://github.com/EddieHubCommunity/support/issues/32)
   - [Open source tips from EddieBot](./docs/tips)
 
-- **Q6 How to look for an open-source project to contribute?** 
+- **Q6 How do I look for an open-source project to contribute?** 
   **Ans:** Check [Finding Open Source Projects](./docs/tips/finding-open-source-projects.md)
