@@ -17,5 +17,5 @@ Porque é que os PR pequenos são melhores
 
 ---
 
-- Línguas: todas 
+- Línguas: todas
 - Rótulo: Guia de estilo

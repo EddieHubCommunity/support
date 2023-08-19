@@ -8,11 +8,12 @@ Any questions feel free to ask in the EddieHub Discord http://discord.eddiehub.o
 
 ---
 
-### 
+###
 
 GitHub Actions perform automated tests. They do not replace manual review but help us focus on the more valuable collaboration.
 
 GitHub Actions usually include...
+
 - Building the project
 - Automated testing
 - Linting to check consistent in code formatting

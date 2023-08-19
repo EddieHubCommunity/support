@@ -6,7 +6,7 @@ Thank you for the PR. It is better to make an issue first.
 
 ---
 
-### 
+###
 
 Benefits of creating an Issue first
 

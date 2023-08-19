@@ -4,17 +4,17 @@
 
 - Fork the project (done via website)
 - Clone your fork (to your system)
-- Run ``` git status ```
-- Create a branch to work from ``` git checkout -b <branch-name> ```
-- Check status ``` git status ```
+- Run `git status`
+- Create a branch to work from `git checkout -b <branch-name>`
+- Check status `git status`
 - Make your code/changes/etc.
-- Run ``` git add <file-name> <file-name> ```
-- Commit your changes ``` git commit -m "appropriate note" ```
-- Push your changes ``` git push ```
-- Configure a remote for the fork ``` git remote add upstream https://github.com/original-owner-username/original-repository.git ```
-- Update the latest version of the upstream to avoid conflicts ``` git fetch upstream ```
-- Switch to main branch in your local fork ``` git checkout main ```
-- Merge the upstream changes to your local main branch thus avoiding PR conflicts ``` git merge upstream/main ```
+- Run `git add <file-name> <file-name>`
+- Commit your changes `git commit -m "appropriate note"`
+- Push your changes `git push`
+- Configure a remote for the fork `git remote add upstream https://github.com/original-owner-username/original-repository.git`
+- Update the latest version of the upstream to avoid conflicts `git fetch upstream`
+- Switch to main branch in your local fork `git checkout main`
+- Merge the upstream changes to your local main branch thus avoiding PR conflicts `git merge upstream/main`
 - Request a PR on GitHub (website) after you have done your changes.
 
 ## Learning more

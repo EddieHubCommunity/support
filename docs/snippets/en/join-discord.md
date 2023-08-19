@@ -6,7 +6,7 @@ Come and join the realtime discussion and collaboration http://discord.eddiehub.
 
 ---
 
-### 
+###
 
 GitHub is great for async conversations and persisting the collaboration. But sometimes we need that realtime conversation too
 

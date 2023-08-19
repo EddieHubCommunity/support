@@ -14,11 +14,11 @@ As GitHub Actions executam certos testes automatizados. Elas não substituem rev
 
 GitHub Actions normalmente incluem:
 
-- Construção de um projeto 
+- Construção de um projeto
 - Testes automatizados
 - Linting para verificar a consistência na formatação do código
 
 ---
 
-Línguas: todas 
+Línguas: todas
 Rótulo: Guia de estilo

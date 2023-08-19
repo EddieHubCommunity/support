@@ -2,7 +2,7 @@
 
 ### TLDR;
 
-Obrigado pelo seu PR. O seu ramo parece estar atrás da predefinição do ramo main.  Por favor atualize com as ultimas mudanças.
+Obrigado pelo seu PR. O seu ramo parece estar atrás da predefinição do ramo main. Por favor atualize com as ultimas mudanças.
 
 ---
 
@@ -10,7 +10,7 @@ Obrigado pelo seu PR. O seu ramo parece estar atrás da predefinição do ramo m
 
 À medida que as mudanças são fundidas, outros PRs ficarão desatualizados e precisarão ser atualizados.
 
-- Atualize o ramo main para uma bifurcação prédefinida 
+- Atualize o ramo main para uma bifurcação prédefinida
 - Merge main into your branch
 - Funda o main no seu ramo
 

@@ -13,5 +13,5 @@ Uma imagem vale por mil palavras ou, neste caso, a captura de ecrã (screenshot)
 
 ---
 
-- Línguas: todas 
+- Línguas: todas
 - Rótulo: Guia de estilo

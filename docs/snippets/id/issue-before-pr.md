@@ -6,7 +6,7 @@ Terima kasih atas PR Anda. Lebih baik Anda membuat isu terlebih dahulu.
 
 ---
 
-### 
+###
 
 Manfaat membuat isu terlebih dahulu
 

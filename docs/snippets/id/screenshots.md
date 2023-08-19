@@ -6,7 +6,7 @@ Menjelaskan perubahan PR Anda sangat baik. Harap pertimbangkan juga untuk menamb
 
 ---
 
-### 
+###
 
 Sebuah gambar berbicara 1000 kata. Dalam hal ini, sebuah tangkapan layar.
 
