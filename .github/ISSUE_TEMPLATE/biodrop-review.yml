@@ -1,13 +1,13 @@
-name: LinkFree Review
-description: Please review my LinkFree profile on a livestream
+name: BioDrop Review
+description: Please review my BioDrop profile on a livestream
 title: "[REVIEW]"
-labels: [LinkFree review, live stream review]
+labels: [BioDrop review, live stream review]
 body:
   - type: input
     id: link
     attributes:
-      label: LinkFree profile link
-      placeholder: "e.g.: https://linkfree.eddiehub.io/eddiejaoude"
+      label: BioDrop profile link
+      placeholder: "e.g.: https://biodrop.io/eddiejaoude"
     validations:
       required: true
   - type: markdown
