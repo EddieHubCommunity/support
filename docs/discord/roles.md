@@ -15,7 +15,6 @@ Description of each roles in the EddieHub Discord community.
 | Public Speaking Helpers | Helpers who schedule, plan and organise our weekly public speaking call. | They also create reminders/notification by pinging @public speaking. |
 | Team Eddie | Enthusiastic people who have added a lot of value to our community! | Participate in private discussions and get access to share links. |
 | MLH Guild Mentors | Mentors for our MLH Guild in MLH Guild Events. |  A mentor can inspire someone to continue to build and learn after a hackathon. |
-| Helper | Volunteers who help out the community by guiding them and answering their questions. | Notified whenever some one needs guidance or help. |
 | Bio | A role assigned when you add a bio to EddieBot (Legacy). | - |
 | MLH Guild | Members of our MLH Guild in MLH Guild Events. | - |
 | Community Chat | Let people connect more deeply with communities in real time. | - |
