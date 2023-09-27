@@ -68,6 +68,7 @@ If you want to squash the latest commit _only_, you can run one single command w
 git commit --amend -m "commit message" -m "commit description (optional)"
 ```
 
+<!-- markdownlint-disable MD029 -->
 4. Force-push your changes to the desired branch.
 
 ```bash

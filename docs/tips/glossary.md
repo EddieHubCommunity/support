@@ -10,7 +10,7 @@ It's a function declared without any named identifier to refer to it.
 
 ```javascript
 window.addEventListener("click", function () {
-    // This is An Anonymous Function
+  // This is An Anonymous Function
 });
 ```
 

@@ -6,7 +6,7 @@ Mari bergabung dalam diskusi dan kolaborasi secara langsung di [Discord EddieHub
 
 ---
 
-### 
+###
 
 GitHub sangat baik untuk percakapan asinkron dan mempertahankan kolaborasi.
 Tapi terkadang kita juga membutuhkan percakapan secara langsung.

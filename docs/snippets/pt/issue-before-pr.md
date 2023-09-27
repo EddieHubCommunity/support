@@ -15,5 +15,5 @@ Benefícios em criar uma Assunto primeiro:
 
 ---
 
-- Languages: all  Línguas: todas 
+- Languages: all Línguas: todas
 - Labels: Style guide Rótulo: Guia de estilo
