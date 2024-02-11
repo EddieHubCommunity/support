@@ -64,10 +64,6 @@ TEXT CHANNELS: These consist of the server's main text channels, that are for di
 
 - **#public-speaking**: improve your soft skills, public speaking, and build communities
 
-TECH: Channels regarding specific areas
-
-- **#frontend**, **#backend**, **#devops**, **#tech-other**
-
 You can raise an issue or a Pull request here https://github.com/EddieHubCommunity/support/blob/main/docs/discord/discord-readme.md
 
 If you find any necessary changes to be made in the README, get started with open source and get your 🟩 right away!
