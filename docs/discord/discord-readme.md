@@ -42,13 +42,17 @@ VOICE CHANNELS: #RadioEddieStage intended for community public speaking events
 
 **GENERAL DISCUSSION:**
 
+- **#readme**: EddieHub's onboarding information
+
+- **#roles**: add or remove roles that apply to you
+
 - **#general**: main text chat
 
 - **#help**: ask for help or provide help to the members of the community
 
 - **#content-share**: share web content
 
-- **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
+- **#career**: perm / freelance, digital nomad discussion (no job/project offers)
 
 **DAILY:**
 
@@ -64,9 +68,13 @@ VOICE CHANNELS: #RadioEddieStage intended for community public speaking events
 
 - **#first-timers**: discussion about getting 🟩
 
-- **#hackathons**: the prime area to get notified about upcoming hackathons, and discussing about them
-
 - **#public-speaking**: improve your soft skills, public speaking, and build communities
+
+- **#eddihub-contributors**: contributing to EddieHub, get help and support here! https://github.com/EddieHubCommunity?view_as=public
+
+- **#maintainers**: maintaining discussions
+
+- **#bot-chat**: discuss bots, esp. regarding development of EddieBot. This is also a place to check your profile and ranks in the community using the bot or use the other bot commands.
 
 You can raise an issue or a Pull request here https://github.com/EddieHubCommunity/support/blob/main/docs/discord/discord-readme.md
 
