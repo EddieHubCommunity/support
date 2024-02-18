@@ -34,6 +34,8 @@ EddieBotDev (or EddieBot) would be monitoring language used on the Discord serve
 
 **Information Regarding Channels:**
 
+BROWSE CHANNELS: Consists of search and also lists all available channels in the discord, you are able to follow specific channels or entire category.
+
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic.
 
 **GENERAL DISCUSSION:**
