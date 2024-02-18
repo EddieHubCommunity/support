@@ -38,6 +38,8 @@ BROWSE CHANNELS: Consists of search and also lists all available channels in the
 
 TEXT CHANNELS: These consist of the server's main text channels, that are for discourse regarding topics that aren't very tech-specific, and aren't off-topic.
 
+VOICE CHANNELS: #RadioEddieStage intended for community public speaking events
+
 **GENERAL DISCUSSION:**
 
 - **#general**: main text chat
